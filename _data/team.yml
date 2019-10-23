@@ -1,0 +1,204 @@
+-
+  id: 0
+  name: "Barbara"
+  surname: "Milani"
+  title: "Segretario Associazione ITPUG"
+  thumbnailUrl: bam965.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+-
+  id: 1
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Tesoriere Associazione ITPUG"
+  thumbnailUrl: patri.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+-
+  id: 2
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "Presidente Associazione ITPUG"
+  thumbnailUrl: marco.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+-
+  id: 3
+  name: "Andrej"
+  surname: "Sossi"
+  title: "Socio ITPUG"
+  thumbnailUrl: andrej.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 4
+  name: "Denis"
+  surname: "Gasparin"
+  title: "Socio ITPUG"
+  thumbnailUrl: denis.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
+  id: 0
+  name: "Emanuele"
+  surname: "Zamprogno"
+  title: "Socio ITPUG"
+  thumbnailUrl: emanuele_zamprogno.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 0
+  name: "Gabriele"
+  surname: "Bartolini"
+  thumbnailUrl: gabriele.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107466780372045620897"}
+    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
+    - {name: "github", link: "https://github.com/gbartolini"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
+-
+  id: 1
+  name: "Denis"
+  surname: "Gasparin"
+  thumbnailUrl: denis.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "github", link: "https://github.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
+  id: 2
+  name: "Torello"
+  surname: "Querci"
+  thumbnailUrl: torello.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
+    - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
+    - {name: "github", link: "https://github.com/mk8"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
+-
+  id: 3
+  name: "Emanuele"
+  surname: "Zamprogno"
+  thumbnailUrl: emanuele.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
+-
+  id: 0
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "Presidente Associazione ITPUG"
+  thumbnailUrl: marco.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+-
+  id: 1
+  name: "Andrej"
+  surname: "Sossi"
+  title: "Vice-Presidente Associazione ITPUG"
+  thumbnailUrl: andrejVP.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 2
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Tesoriere Associazione ITPUG"
+  thumbnailUrl: patri.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+-
+  id: 3
+  name: "Barbara"
+  surname: "Milani"
+  title: "Segretario Associazione ITPUG"
+  thumbnailUrl: bam965.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+-
+  id: 4
+  name: "FLorin"
+  surname: "Irion"
+  title: "Consigliere Associazione ITPUG"
+  thumbnailUrl: florinC.jpeg
+  team: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/florin-razvan-irion/"}
+#-
+#  id: 0
+#  name: "Marco"
+#  surname: "Nenciarini"
+#  title: "Technical issue, Website"
+#  thumbnailUrl: marco.jpg
+#  exTeam: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+#    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+#    - {name: "twitter", link: "https://twitter.com/mnencia"}
+#    - {name: "github", link: "https://github.com/mnencia"}
+#    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+#-
+#  id: 1
+#  name: "Patrizia"
+#  surname: "Dabizzi"
+#  title: "Administration, Catering, Location"
+#  thumbnailUrl: patri.jpg
+#  exTeam: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+#    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+#    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+#-
+#  id: 2
+#  name: "Barbara"
+#  surname: "Milani"
+#  title: "Website, Comunication, Location"
+#  thumbnailUrl: bam965.jpg
+#  exTeam: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+#    - {name: "twitter", link: "https://twitter.com/bam965"}
+#    - {name: "github", link: "https://github.com/bam965"}
+#    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}

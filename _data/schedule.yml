@@ -1,0 +1,122 @@
+-
+  date: "2019-05-17"
+  dateReadable:
+    it: "17 maggio 2019"
+    en: "May 17th, 2019"
+  message:
+    it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
+    en: "The schedule is not yet definitive, there may be some variations"
+  tracks:
+    - {title: "Sala Diaz", color: "#90be4e"}
+    - {title: "Sala Cortez e Marco Polo", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "08:30",
+    	endTime: "09:00",
+    	sessionIds: [000]
+    }
+    - {
+    	startTime: "09:00",
+    	endTime: "09:15",
+    	sessionIds: [090]
+    }
+    - {
+      startTime: "09:15",
+      endTime: "10:00",
+      sessionIds: [001]
+    }
+    - {
+      startTime: "10:00",
+    	endTime: "10:45",
+      sessionIds: [057, 059]
+    }
+    - {
+    	startTime: "10:45",
+    	endTime: "11:05",
+    	sessionIds: [307]
+    }
+    - {
+      startTime: "11:05",
+    	endTime: "11:50",
+      sessionIds: [058, 045]
+    }
+    - {
+      startTime: "11:50",
+    	endTime: "12:35",
+      sessionIds: [049, 055]
+    }
+    - {
+      startTime: "12:35",
+      endTime: "13:30",
+      sessionIds: [503]
+    }
+    - {
+      startTime: "13:30",
+    	endTime: "14:15",
+      sessionIds: [095]
+    }
+    - {
+    	startTime: "14:15",
+    	endTime: "15:00",
+    	sessionIds: [040, 051]
+    }
+    - {
+      startTime: "15:00",
+    	endTime: "15:45",
+      sessionIds: [052, 053]
+    }
+    - {
+    	startTime: "15:45",
+    	endTime: "16:05",
+    	sessionIds: [307]
+    }
+    - {
+      startTime: "16:05",
+    	endTime: "16:50",
+      sessionIds: [050, 061]
+    }
+    - {
+      startTime: "16:50",
+    	endTime: "17:35",
+      sessionIds: [060, 048]
+    }
+    - {
+      startTime: "17:35",
+    	endTime: "18:20",
+      sessionIds: [046, 056]
+    }
+    - {
+    	startTime: "18:20",
+    	endTime: "19:15",
+    	sessionIds: [325]
+    }
+#    - {
+#      startTime: "18:20",
+#    	endTime: "19:00",
+#      sessionIds: [094]
+#    }
+#    - {
+#        startTime: "17:40",
+#    	endTime: "17:45",
+#        sessionIds: [095]
+#    }
+#    - {
+#        startTime: "17:45",
+#    	endTime: "17:50",
+#        sessionIds: [096]
+#    }
+#    - {
+#        startTime: "17:50",
+#    	endTime: "17:55",
+#        sessionIds: [097]
+#    }
+#    - {
+#        startTime: "17:55",
+#    	endTime: "18:00",
+#        sessionIds: [098]
+#    }
+#    - {
+#        startTime: "18:00",
+#    	endTime: "18:05",
+#        sessionIds: [099]
+#    }

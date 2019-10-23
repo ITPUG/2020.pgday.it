@@ -1,0 +1,22 @@
+<!-- About Linux Section -->
+<section id="about-workshops" class="about-workshops">
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2 text-left">
+            <h5>{{ site.aboutLinuxTitle[page.lang] }}</h5>
+            <p>
+              {{ site.aboutLinuxDescription[page.lang] }}
+            </p>
+            {% for row in site.LinuxRows %}
+            {% assign check = forloop.index0 | modulo:2 %}
+            <div class="workshops-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
+                <div class="workshops-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                    <h5>{{ row.title[page.lang] }}</h5>
+                    <h6>{{ row.subtitle[page.lang] }}</h6>
+                    <p>{{ row.details[page.lang] }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End About Linux Section -->

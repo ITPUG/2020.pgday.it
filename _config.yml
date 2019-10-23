@@ -1,0 +1,717 @@
+# Plugins
+gems:
+- jekyll-sitemap
+- jekyll-redirect-from
+safe: false
+future: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude:
+  - '/automation/'
+  - 'README.md'
+  - 'LICENSE.txt'
+  - 'CNAME'
+
+# Site Settings
+title: "PGDay.IT 2020"
+email: "pgday@itpug.org"
+description:
+  it: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
+  en: "The Italian PostgreSQL is the national day completely dedicated at PostgreSQL, the most advance open source database in the world"
+baseurl: ""
+url: "http://2020.pgday.it"
+permalink: "/it/blog/:title"
+googleAnalyticsTrackingId: "UA-99990720-4"
+googleAnalyticsSiteUrl: "auto"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "ITPUG"
+organizerAlternateName:
+    it: "ITalian PostgreSQL Users Group"
+    en: "ITalian PostgreSQL Users Group"
+organizerDescription:
+    it: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia.
+    In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo."
+    it: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy.
+    In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects."
+
+organizerEmail: "info@itpug.org"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.itpug.org/"
+
+# TODO: sistemare foto
+# Head
+metaKeywords: "event, PostgreSQL, Open Source, Disaster Recovery, programming, Big Data, Postgres, developers"
+twitterAccount: "@PGDayIT"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+#c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
+c4sponsorsUrl: "/assets/PartnerIT_2019.pdf"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speaker"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
+ - {permalink: "/workshop/", text: "Workshop", lang: "it"}
+ - {permalink: "/workshop/", text: "Workshops", lang: "en"}
+ - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+ - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+ - {permalink: "/logistics/", text: "Logistics", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+# - {permalink: "/staff/", text: "Staff", lang: "it"}
+# - {permalink: "/staff/", text: "Staff", lang: "en"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/blog/", text: "Blog"}
+bottomNavigationLinks:
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+# - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+rightNavigationButtons:
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+# - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle:
+  it: "PGDay.IT 2019 - <typeout> "
+  en: "PGDay.IT 2019 - <typeout> "
+eventDate:
+  it: "Bologna 2019: Workshop 16 maggio e PGDay.IT 17 maggio"
+  en: "Bologna 2019: Workshop May 16th and PGDay.IT May 17th"
+typeoutTextValues:
+  it: '"PGDay.IT 17 maggio", "Workshop 16 maggio", "PG_beer 16 maggio", "Bologna, Italy"'
+  en: '"PGDay.IT May 17th", "Workshop May 16th", "PG_beer May 16th", "Bologna, Italy"'
+typeoutFallback:
+  it: "Bologna, 16 e 17 maggio 2019"
+  en: "Bologna, May 16th and 17th, 2019"
+heroButtons:
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
+ - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
+
+# About Block
+aboutTitle:
+  it: "Informazioni sul PGDay.IT"
+  en: "About PGDay.IT"
+aboutBlock:
+ - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è la tredicesima edizione. Qualsiasi profitto derivante dall'evento supporterà la comunità italiana di PostgreSQL (ITPUG-ITalian PostgreSQL Users Group) nelle attività di promozione e diffusione PostreSQL." }
+ - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the thirteenth edition. Any profits from the event will support the Italian Community of PostgreSQL (ITPUG-ITalian PostgreSQL Users Group) in PostreSQL promotion and diffusion activities." }
+ - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile pg_beer! Sei disposto a rinunciarci? Guarda la pagina dedica alla pg_dinner ed iscriviti anche tu. Andiamo, non puoi mancare!" }
+ - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable pg_beer! Are you willing to give up? Give a look at pg_dinner page and subscribe. Come on, you can't miss!" }
+
+# Statistic Block
+statisticBlockTitle:
+    it: "I numeri di dodici edizioni del PGDay.It"
+    en: "Numbers of twelve editions of PGDay.It"
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {lang: "it", count: "1605", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
+ - {lang: "en", count: "1605", specialCharacter: "+", info: "attendees", detail: "from all Europe"}
+ - {lang: "it", count: "201", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
+ - {lang: "en", count: "201", specialCharacter: "+", info: "hours", detail: "of pure PostgreSQL"}
+ - {lang: "it", count: "191", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
+ - {lang: "en", count: "191", specialCharacter: "+", info: "speaker", detail: "from all around the world"}
+ - {lang: "it", count: "26", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
+ - {lang: "en", count: "26", specialCharacter: "", info: "track", detail: "and social events"}
+
+# Latest News Block
+latestNewsTitle:
+  it: "Notizie dell'ultima ora"
+  en: "Latest News"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle:
+    it: "Speaker"
+    en: "Speakers"
+rockstarSpeakersButtonText:
+  it: "Guarda tutti gli speaker"
+  en: "All Speakers here"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Admiral Park Hotel"
+eventLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+eventStreetAddress: "Via Fontanella, 3"
+eventAddressLocality: "Zola Predosa - Bologna"
+eventAddressLocalityRegion: "(BO)"
+eventPostalCode: "40069"
+eventAddressCountry: "Italy"
+eventStartTime: "2019-05-16T9:00"
+eventDoorTime: "08:15"
+eventEndTime: "2019-05-17T18:00"
+eventPlaceCoordinates: "44.4627324, 11.1992285"
+mapCenterCoordinates: "44.4627324, 11.1992285"
+mapMobileCenterCoordinates: "44.4627324, 11.1992285"
+
+# Venue Block
+venueBlockTitle:
+  it: "Location"
+  en: "Location"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle:
+  it: "Admiral Park Hotel"
+  en: "Admiral Park Hotel"
+venueFeatures:
+  it: ["Admiral Park Hotel è situato in una bellissima e strategica posizione, immerso in un vasto parco. Rimane a pochi minuti dall’aeroporto Guglielmo Marconi(BLQ), dalla stazione ferroviaria di Bologna centro e dalla zona fieristica di Bologna."]
+  en: ["Admiral Park Hotel is located in a beautiful and strategic position, surrounded by a large park. Remains a few minutes from the Guglielmo Marconi airport (BLQ), from the Bologna central train station and from the Bologna fairgrounds."]
+
+# TODO: sistemare url
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "PGDayIT"
+twitterFeed: "https://twitter.com/search?q=%23PGDayIT&src=typd=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle:
+    it: "Organizzatori"
+    en: "Organiser"
+partnersTitle:
+    it: "Partner"
+    en: "Partners"
+partnersInfo:
+    it: "PGDay.IT non sarebbe possibile senza il supporto dei nostri generosi partner. Grazie mille a tutti!"
+    en: "PGDay.IT wouldn't be possible without support from our generous partners. Thank you all very much!"
+partnersC4sponsorsButton:
+    it: "Diventa Partner"
+    en: "Become Partner"
+
+# TODO: sistemare URL
+# Subscribe Block
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle:
+#    it: "Resta aggiornato"
+#    en: "Stay in touch"
+#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo:
+#    it: "Sarà possibile acquistare i biglietti a partire da metà dicembre. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+#    en: "Tickets will be available from December 15th. The number of available tickets is limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle:
+    it: "Prezzo biglietti"
+    en: "Ticket prices"
+ticketsInfo:
+    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 17 maggio 2019. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
+    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of May 17th, 2019. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
+ticketsOffers:
+ -
+  name:
+    it: "Early ticket"
+    en: "Early ticket"
+  price: "47,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://2019pgdayit.eventbee.com"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  ticketContentList:
+    it: ["Early ticket - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
+    en: ["Early ticket - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
+  validFrom: "2018-09-14T10:00"
+  validThrough: "2019-02-17T23:59"
+  disabled: true
+ -
+  name:
+    it: "Ordinario"
+    en: "Ordinary"
+  price: "59,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://2019pgdayit.eventbee.com"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  ticketContentList:
+    it: ["Ordinario - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
+    en: ["Ordinary - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
+  validFrom: "2019-02-18T00:00"
+  validThrough: "2019-04-30T23:59"
+  disabled: false
+ -
+  name:
+    it: "Last chance"
+    en: "Last chance"
+  price: "97,00"
+  priceCurrency: "€"
+  featured: true
+  buyButtonLink: "https://2019pgdayit.eventbee.com"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  ticketContentList:
+    it: ["Last chance - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
+    en: ["Last chance - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
+  validFrom: "2019-05-01T00:00"
+  validThrough: "2019-05-17T08:00"
+  disabled: true
+ -
+  name:
+    it: "Studente"
+    en: "Student"
+  price: "15,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://2019pgdayit.eventbee.com"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  additionalInfo:
+    it: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
+    en: "A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund."
+  ticketContentList:
+    it: ["Studente - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
+    en: ["Student - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
+  validFrom: "2018-09-14T10:00"
+  validThrough: "2019-05-17T08:00"
+  disabled: false
+
+# TODO: sistemare permalink o cancellarlo
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/114060631874544975126", icon: "google-plus"}
+ - {link: "https://twitter.com/PGDayIT", icon: "twitter"}
+ - {link: "https://www.facebook.com/ITPUG/", icon: "facebook"}
+ - {link: "https://www.linkedin.com/company/itpug", icon: "linkedin"}
+ - {link: "https://www.youtube.com/channel/UCAJ1P67u3qQyLpLm5bvPNPw", icon: "youtube"}
+ - {link: "https://www.flickr.com/photos/itpug/albums", icon: "flickr"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.itpug.org", text: "ITPUG"}
+ -
+  lang: "it"
+  title: "Contatti"
+  links:
+   - {link: "mailto:info@itpug.org", text: "info@itpug.org"}
+ -
+  lang: "en"
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@itpug.org", text: "info@itpug.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Codice di condotta", lang: "it"}
+   - {permalink: "/cod/", text: "Code of conduct", lang: "en"}
+
+# Blog
+blogTitle:
+  it: "Notizie dell'ultima ora"
+  en: "Latest News"
+blogReadMore:
+  it: "continua a leggere"
+  en: "read more"
+blogCommentsEnabled: true
+discusShortName: "PGDay.IT_2019"
+
+# Speakers List Block
+#speakersImage: "speaker.jpg"
+#showSessions: true
+
+ # Staff Block
+staffBlockTitle:
+    it: "Il loro principale interesse: permettervi di seguire il PGDay.IT senza problemi"
+    en: "The main interest is to allow you to follow PGDay.IT without any problems"
+staffSubtitle1:
+    it: "Al desk per la registrazione, per il rinnovo della quota societaria e per accogliere nuovi iscritti"
+    en: "At the registration desk, you will be able to inscribe to our association and renew your subscription"
+staffSubtitle2:
+    it: "Presenteranno la track Italiana e la track Inglese e i Lightning Talk"
+    en: "The host speaker will present in Italian and English, the Lightning Talk is included as well"
+staffSubtitle3:
+    it: "Altre attività"
+    en: "Other activity"
+
+# Team Block
+teamBlockTitle:
+    it: "A proposito di ITPUG"
+    en: "About ITPUG"
+aboutUs:
+    it: "ITPUG - Italian PostgreSQL Users Group è una associazione no-profit per la promozione, divulgazione e la tutela del Software Libero (FLOSS) in Italia. In modo particolare, l'associazione ITPUG promuove l'adozione  di PostgreSQL (http://www.postgresql.org), uno dei progetti open source di maggior successo. L'associazione è nata a Prato (PO) il 17 novembre 2007, poco dopo la prima edizione del PGDay.IT. Per maggiori informazioni sull'associazione ITPUG scrivi a info@itpug.org."
+    en: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy. In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects. The association was born in Prato (PO) on November 17, 2007, shortly after the first edition of PGDay.IT. For more information about the ITPUG association, please write to info@itpug.org."
+
+## Logistics Find Way Block
+findWayTitle:
+  it: "Verifica qui il tuo percorso"
+  en: "Find your way here"
+findWayDestination:
+  it: "al PGDay.IT"
+  en: "to PGDay.IT"
+findWayDistance:
+  it: "Distanza"
+  en: "Distance"
+findWayDriving:
+  it: "Con l'auto"
+  en: "By car"
+findWayWalking:
+  it: "A piedi"
+  en: "Walking"
+findWayTransit:
+  it: "Mezzi pubblici"
+  en: "Public Transport"
+findWayFindFlight:
+  it: "Find Flight"
+  en: "Find Flight"
+viewOnMap:
+  it: "Vedi su Google Maps"
+  en: "View on Google Maps"
+logisticsMapCenterCoordinates: "44.4627324, 11.1992285"
+logisticsMapMobileCenterCoordinates: "44.4627324, 11.1992285"
+logisticsMapAutoDirections: false
+
+## Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle:
+    it: "Come raggiungere il PGDay.IT 2019"
+    en: "How to reach PGDay.IT 2019"
+directionDetailsCards:
+# - {lang: "it", title: "Arrivi in aereo all'Aeroporto Guglielmo Marconi di Bologna? In treno alla stazione di Bologna Centrale?", information: "Questa è la nostra soluzione: PG_shuttle! Fornendo a noi i dati del tuo arrivo, organizzeremo per te il pickup che ti porterà direttamente presso la sede del PGDay.IT 2019. Basta che tu compili il form che abbiamo predisposto e troverai il tuo pickup ad attenderti al tuo arrivo. PG_shuttle è un servizio gratuito. Inserisci le informazioni necessarie nel form che trovi cliccando su 'PG_shuttle' nella barra del menù principale. Se invece preferisci essere autonomo, sotto troverai le indicazioni che ti occorrono."}
+# - {lang: "en", title: "Are you arriving by plane at Guglielmo Marconi Airport or by train at Bologna Centrale station?", information: "This is our solution: PG_shuttle! By providing us your arrival details, we will arrange for you the pickup that will take you directly to the venue of PGDay.IT 2019. Just fill the form that we have prepared and you will find your pickup waiting for you when you arrive. PG_shuttle is a free service. Please, enter the necessary information in the form that you find by clicking on 'PG_shuttle' in the main menu bar. If you prefer to be independent, below you will find the instructions you need."}
+
+ - {lang: "it", title: "IN AUTO:", information: "A1 - Autostrada del Sole: Uscita Casalecchio di Reno - Segui SP569 e SP26 in direzione di Via Fontanelle a Zola Predosa (14 min - 8,7 km)"}
+ - {lang: "en", title: "BY CAR:", information: "A1 - Autostrada del Sole: Exit Casalecchio di Reno - Follow SP569 and SP26 in the direction of Via Fontanelle in Zola Predosa (14 min - 8.7 km)"}
+
+ - {lang: "it", title: "IN TRENO:", information: "Admiral Park Hotel è a soli 25 minuti dalla Stazione Centrale di Bologna."}
+ - {lang: "en", title: "BY TRAIN:", information: "Only 25 minutes from Bologna Centrale station to reach Admiral Park Hotel."}
+
+ - {lang: "it", title: "IN AEREO:", information: "Admiral Park Hotel è a soli 15 minuti dall'aeroporto Guglielmo Marconi di Bologna."}
+ - {lang: "en", title: "BY PLANE:", information: "Only 15 minutes from Guglielmo Marconi airport in Bologna to reach Admiral Park Hotel."}
+
+ - {lang: "it", title: "CERCHI UN HOTEL?", information: "Abbiamo definito delle tariffe scontate per i partecipanti al PGDay.IT 2019 con l'Admiral Park Hotel. Pubblicheremo le informazioni sul sito web al più presto."}
+ - {lang: "en", title: "ARE YOU LOOKING FOR AN HOTEL?", information: "We have arranged for discounted room rates for PGDay.IT 2019 attendees with Admiral Park Hotel. We will publish the information on the website asap."}
+#directionDetailsWideCards:
+# -
+#  lang: "it"
+#  title: "Cerchi un hotel?"
+#  subCards:
+#   -
+#    title: ""
+#    links:
+#     - {link: "http://www.admiralparkhotel.com/", text: "Admiral Park Hotel"}
+#     - {link: "", text: ""}
+#     - {link: "", text: ""}
+#     - {link: "", text: ""}
+# -
+#  lang: "en"
+#  title: "Are you looking for an hotel"
+#  subCards:
+#   -
+#    title: ""
+#    links:
+#     - {link: "http://www.admiralparkhotel.com/", text: "Admiral Park Hotel"}
+#     - {link: "", text: ""}
+#     - {link: "", text: ""}
+#     - {link: "", text: ""}
+
+# Pgbeer
+pgbeerDetailsImage: "pg_beer_in.jpg"
+pgbeerTitle:
+    it: ""
+    en: ""
+pgbeerDescription:
+    it: "
+    <h6>Come nostro costume: l'immancabile pg_beer!<h6/>
+    <h6>L'occasione per rompere il giaccio prima della Conferenza.<h6/>
+    <h6>Tutti gli speaker sono stati invitati e la maggior parte di loro sarà presente.<h6/>
+    <h6>La serata è aperta a tutti i partecipanti, ma il numero è limitato!<h6/>
+    <h6>Andiamo, non puoi mancare!<h6/>
+    <h6>Dove? Trattoria Rivabella.<h6/>"
+    en: "
+    <h6>Like our costume: the inevitable pg_beer!<h6/>
+    <h6>The opportunity to break the ice before the Conference.<h6/>
+    <h6>All the speakers have been invited and most of them will join us.<h6/>
+    <h6>The evening is open to all participants, but the number is limited!<h6/>
+    <h6>Come on, you can't miss!<h6/>
+    <h6>Where? Trattoria Rivabella.<h6/>"
+enablePgbeer: true
+
+# Pgbeer About Block
+aboutPgbeerTitle:
+    it: ""
+    en: ""
+aboutPgbeerDescription:
+  it: "
+     <p>
+       La storia della Trattoria Rivabella inizia molto tempo fa, quando Nonno Oreste e Nonna Clelia si stabilirono in questo borgo con i loro tre figli, Giancarlo, Chiarina e Iole, ridando vita all’antica Osteria di Rivabella. Giancarlo, assieme alla moglie Anna Maria (Nonna Bibi), trasformarono l’Osteria nella Trattoria Rivabella, proponendo i piatti classici della tradizione bolognese preparati con i migliori ingredienti seguendo le antiche ricette famigliari.<br/>
+     <p>
+       Tra i tanti gustosi piatti proposti, imperdibili le famose crescentine e le tigelle fatte in casa da nonna Bibi, la cui ricetta si tramanda di generazione in generazione e viene segretamente custodita come un prezioso tesoro.<br/>"
+  en: "
+     <p>
+       The history of the Trattoria Rivabella begins long ago, when Nonno Oreste and Nonna Clelia settled in this village with their three children, Giancarlo, Chiarina and Iole, giving new life to the ancient Osteria di Rivabella. Giancarlo, together with his wife Anna Maria (Nonna Bibi), transformed the Osteria in the Trattoria Rivabella, offering the classic dishes of the Bolognese tradition prepared with the best ingredients following the ancient family recipes.<br/>
+     <p>
+       Among the many tasty dishes offered, you should not miss the famous crescentine and homemade tigelle by grandma Bibi, whose recipe is handed down from generation to generation and is secretly kept as a precious treasure.<br/>"
+
+pgbeerDetailsCards:
+ - {lang: "it", title: "Tris di Primi", information: 'Tagliatelle al ragù, Gramigna alla salsiccia e Tortelloni burro e salvia'}
+ - {lang: "en", title: "Tris of first plates", information: 'Tagliatelle with ragu souce, Gramigna (tipical pasta) with sausage souce and Tortelloni with butter and sage souce'}
+
+ - {lang: "it", title: "Tigelle e Crescentine", information: 'Tigelle e Crescentine con affettati, Squacquerone, Sottolio, Cipolle rosse di Tropea sotto aceto, Pesto montanaro bolognese, Friggione'}
+ - {lang: "en", title: "Tigelle and Crescentine", information: 'Tigelle and Crescentine with cold cuts, Squacquerone (typical cheese), vegetables in oil, red Tropea onions in vinegar, Bolognese pesto mountaineer, Friggione (Bolognese typical plate)'}
+
+ - {lang: "it", title: "Per i Vegetariani", information: 'Bis di primi: Tortelloni burro e salvia e spaghetti alla contadina (leggermente piccante) - Tigelle e crescentine (vegetariane) vedi sopra, con verdure alla griglia'}
+ - {lang: "en", title: "For Vegetarians", information: 'Bis of first courses: Tortelloni with butter and sage and Spaghetti alla contadina (slightly spicy) - Tigelle and Crescentine (vegetarian), with grilled vegetables'}
+
+ - {lang: "it", title: "Il tutto accompagnato da:", information: 'Vino della casa (bianco Pignoletto frizzante e rosso Sangiovese), birra o bibite'}
+ - {lang: "en", title: "All accompanied by:", information: 'House wine (white sparkling Pignoletto and red Sangiovese), beer or soft drinks'}
+
+ - {lang: "it", title: "A chiusura", information: 'Liquori fatti in casa: Limoncello e Liquirizia per arrivare al caffè'}
+ - {lang: "en", title: "At closure", information: 'Homemade liqueurs: Limoncello and Liquorice to close with coffee'}
+
+# Pgbeer Tickets Block
+pgbeerTicketsTitle:
+    it: "Prezzo PG_beer"
+    en: "PG_beer price"
+pgbeerTicketsInfo:
+    it: "PG_beer 2019"
+    en: "PG_beer 2019"
+pgbeerTicketsOffers:
+ -
+  name:
+    it: "PG_beer 2019"
+    en: "PG_beer 2019"
+  price: "25,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://itpug.eventbee.com/event?eid=151678914"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  pgbeerTicketContentList:
+    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
+    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
+  validFrom: "2019-03-19T10:00"
+  validThrough: "2019-05-14T23:59"
+  disabled: false
+
+# Pgbeer Location Block
+pgbeerLocationBlockTitle: "Location"
+pgbeerLocationName: "Trattoria Rivabella"
+pgbeerLocationLink: "http://www.trattoriarivabella.it/index.html"
+pgbeerStreetAddress: "Via Gesso 199"
+pgbeerAddressLocality: "Zola Predosa - Bologna"
+pgbeerddressLocalityRegion: "(BO)"
+pgbeerPostalCode: "40069"
+pgbeerAddressCountry: "Italy"
+pgbeerStartTime: "2019-05-16T20:00"
+pgbeerDoorTime: "20:00"
+pgbeerEndTime: "2019-05-16T23:59"
+viewOnMap: "View on Google Maps"
+pgbeerPlaceCoordinates: "44.468279, 11.1997933,17"
+pgbeerMapCenterCoordinates: "44.468279, 11.1997933,17"
+pgbeerMapMobileCenterCoordinates: "44.468279, 11.1997933,17"
+enablePgbeer: true
+
+# Workshop
+workshopDetailsImage: "workshop-details.jpg"
+workshopTitle:
+    it: "Workshop: informazioni generali."
+    en: "Workshops: general information"
+
+# Workshop About Block
+aboutWorkshopTitle:
+    it: "Workshop: come iscriversi?"
+    en: "Workshops: how to attend?"
+aboutWorkshopDescription:
+    it: "
+      <p>
+        I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2019
+        (Admiral Park Hotel - Via Fontanella, 3 - Zola Predosa BO). L'iscrizione può
+        essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
+        di selezionare il workshop di interesse.<br/>
+        I partecipanti dovranno essere automuniti di portatile.
+        La fee di registrazone ai workshop NON include: coffee break, pranzo e accesso al PGDay.IT 2019.
+      </p>
+      <p>
+        <b>IMPORTANTE</b>: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
+        RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE.
+      </p>"
+    en: "
+      <p>
+      Workshop will take place in the same venue of PGDay.IT 2019 (Admiral Park Hotel - Via Fontanella, 3 - Zola Predosa BO).
+      You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include: coffee break, lunch, and access to PGDay.IT 2019. <br/>
+      Attendees has to bring their own computer.
+      The workshop fee does not include: lunch as well and PGDay.IT 2019 fee.
+      </p>
+      <p>
+        <b> IMPORTANT </ b>: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED.
+      </p>"
+
+workshopsRows:
+ - image: paolo_cavallini_verticale.jpg
+   title:
+     it: "Geografia in PostgreSQL"
+     en: "Geografia in PostgreSQL"
+   author:
+     name: "Paolo	Cavallini"
+     speakerId: 32
+   subtitle:
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9am
+   details:
+     it: |
+       Spatial is special? Gestire i dati spaziali in PostgreSQL richiede alcune competenze non tipiche dei DBA. Nel workshop spiegheremo come importare, gestire e manipolare dati spaziali tramite l'estensione PostGIS, con esempi di applicazioni semplici ed avanzate, con particolare riferimento all'interfaccia con applicazioni GIS, sia desktop che web. Il workshop è rivolto a: DBA senza skills geografici, che intendano iniziare a gestire questo tipo di dato nel DB esperti GIS che desiderino dotarsi di un backend robusto per i loro dati.
+     en: |
+       Spatial is special? Managing spatial data in PostgreSQL requires some skills not typical of DBAs. In the workshop we will explain how to import, manage and manipulate spatial data through the PostGIS extension, with examples of simple and advanced applications, with particular reference to the interface with GIS applications, both desktop and web. The workshop is aimed at: DBAs without geographical skills, who intend to start managing this type of data in the DB expert GIS who wish to have a robust backend for their data.
+ - image: rubens_souza_verticale.jpg
+   title:
+     it: "Taking care of PostgreSQL with Ansible"
+     en: "Taking care of PostgreSQL with Ansible"
+   author:
+     name: "Rubens Souza"
+     speakerId: 65
+   subtitle:
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9m
+   details:
+     it: |
+       Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL possiamo gestire facilmente il database open source più avanzato , assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario. In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
+     en: |
+       Ansible is a powerful automation tool written in Python. With its modules already created for PostgreSQL we can easily manage the most advanced open source database, ensuring that its configuration is accurate in every detail and repeatable as often as necessary. In this workshop we will understand how Ansible works, we will look at some of its main modules for systems / cloud administration and learn how it can be used to orchestrate PostgreSQL deployments, managing all parts of the process easily. As a use case, we will structure a playbook for the installation of a PostgreSQL master and a standby on replication streaming.
+ - image: paolo_tamara_verticale.jpg
+   title:
+     it: "Django & PostgreSQL"
+     en: "Django & PostgreSQL"
+   author:
+     name: "Paolo Romolini e Tamara Nocentini"
+     speakerId: 23
+   subtitle:
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9am
+   details:
+     it: |
+       Partiremo dalle basi creando insieme una applicazione che ti consentirà di prendere appunti durante il PGDay.IT. Le tue note saranno al sicuro perché le salveremo su PostgreSQL e al fine della manifestazione potrai scaricarle per stamparle a casa.
+     en: |
+       We will start from the basics by creating an application together that will allow you to take notes during PGDay.IT. Your notes will be safe because we will save them on PostgreSQL and at the end of the event you can download them to print them at home.
+ - image: mladen_marinovic_verticale.jpg
+   title:
+     it: "Explaining your EXPLAIN - a beginners guide"
+     en: "Explaining your EXPLAIN - a beginners guide"
+   author:
+     name: "Mladen Marinović"
+     speakerId: 64
+   subtitle:
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 2pm
+   details:
+     it: |
+       Quando inizi a eseguire le tue query, sembra che il database stia facendo un po 'di magia e restituisca i tuoi risultati molto velocemente. Dopo aver acquisito una certa sicurezza nello scrivere query più complesse, vedi che la magia a volte non funziona. Perché il database non riesce a fare il suo lavoro? Per visualizzare i motivi per cui le query vengono eseguite lentamente, è possibile utilizzare il comando EXPLAIN che elabora un piano di query dettagliato della query. Dopo averlo letto, dovresti capire esattamente cosa sta succedendo con la query e trovare facilmente un modo per risolverlo. In questo workshop, inizieremo con semplici query e join e ci avvicineremo alle sottosezioni, alle CTE e alle stored procedure. Per vedere tutto questo in azione useremo la rappresentazione testuale di EXPLAIN e l'aiuto di pgAdminIII / 4 e altri strumenti disponibili. Proveremo anche a rimodellare i database esistenti per poter utilizzare i migliori tipi di indice, rendendo le query più veloci. Se il tempo lo consente, possiamo provare a risolvere alcune query problematiche che i partecipanti portano da casa 😎
+     en: |
+       When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it. In this workshop, we will start with simple queries and joins, and make our way up to subselects, CTE-s and stored procedures. To see all this in action we will use the textual representation of the EXPLAIN and the help of pgAdminIII/4 and other available tools. We will also try to remodel existing databases to be able to use better index types, making queries faster. If time allows it, we can try to fix some problematic queries attendees bring from home 😎
+ - image: marco_nenciarini_verticale.jpg
+   title:
+     it: "Introduzione a Kubernetes"
+     en: "Kubernetes & PostgreSQL"
+   author:
+     name: "Marco Nenciarini"
+     speakerId: 30
+   subtitle:
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 2pm
+   details:
+     it: |
+       Workshop introduttivo su Docker e Kubernetes. Docker è un progetto open source che automatizza il deployment di applicazioni all’intero di Container software.  Kubernetes è una piattaforma open source che automatizza le operazioni sui container Linux, eliminando molti dei processi manuali necessari per eseguire il deployment e scalare le applicazioni containerizzate. Il workshop è rivolto a chi ha familiarità con gli ambienti unix ed è curioso di sperimentare Docker e Kubernetes. Durante il workshop affronteremo i seguenti argomenti: Introduzione ai container, Architettura di Docker, Operazioni di base con Docker, Comunicazione fra container, Deploy con Docker Compose, Introduzione a Kubernetes, Architettura di Kubernetes, Operazioni di base con Kubernetes, Gestione di connessioni interne ed esterne, Volumi persistenti, Deploy con Kubernetes. Per partecipare al workshop sarà necessario avere un portatile con sistema operativo Linux o OSX.
+     en: |
+       Workshop introduttivo su Docker e Kubernetes. Docker è un progetto open source che automatizza il deployment di applicazioni all’intero di Container software.  Kubernetes è una piattaforma open source che automatizza le operazioni sui container Linux, eliminando molti dei processi manuali necessari per eseguire il deployment e scalare le applicazioni containerizzate. Il workshop è rivolto a chi ha familiarità con gli ambienti unix ed è curioso di sperimentare Docker e Kubernetes. Durante il workshop affronteremo i seguenti argomenti: Introduzione ai container, Architettura di Docker, Operazioni di base con Docker, Comunicazione fra container, Deploy con Docker Compose, Introduzione a Kubernetes, Architettura di Kubernetes, Operazioni di base con Kubernetes, Gestione di connessioni interne ed esterne, Volumi persistenti, Deploy con Kubernetes. Per partecipare al workshop sarà necessario avere un portatile con sistema operativo Linux o OSX.
+ - image: leonardo_cecchi_verticale.jpg
+   title:
+     it: "Gli elefanti non hanno paura della ruggine"
+     en: "Elephants are not afraid of rust"
+   author:
+     name: "Leonardo Cecchi"
+     speakerId: 58
+   subtitle:
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 2pm
+   details:
+     it: |
+       Rust è un di programmazione ad alta efficienza pensato per scrivere software di sistema. Dopo una introduzione alle caratteristiche più interessanti del linguaggio ed un confronto con i linguaggi più famosi, vedremo come utilizzare PostgreSQL nei programmi Rust. Dopo aver parlato del sistema di macro di Rust, lo useremo con Diesel: un ORM che ci permette di controllare la correttezza delle query durante la compilazione e quindi di trovare subito i problemi. Se rimane un po' di tempo costruiremo insieme una estensione di PostgreSQL usando Rust.
+     en: |
+       Rust is a highly efficient programming system designed to write system software. After an introduction to the most interesting features of the language and a comparison with the most famous languages, we will see how to use PostgreSQL in the Rust programs. After talking about the Rust macro system, we will use it with Diesel: an ORM that allows us to check the correctness of the queries during compilation and then to immediately find the problems. If we stay a while, we will build a PostgreSQL extension together using Rust.
+
+# Workshop About Block
+aboutWorkshopTitle:
+    it: "Workshop: come iscriversi?"
+    en: "Workshops: how to attend?"
+aboutWorkshopDescription:
+    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2019 (Admiral Park Hotel - Via Fontanella, 3 - Zola Predosa BO). L'iscrizione può essere effettuata attraverso Eventbrite.
+    Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La fee di registrazone ai workshop NON include:
+      coffee break, pranzo e accesso al PGDay.IT 2019. I partecipanti dovranno essere automuniti di portatile.
+      IMPORTANTE: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
+      RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
+    en: " The workshops will take place at the same venue of PGDay.IT 2019 (Admiral Park Hotel - Via Fontanella, 3 - Zola Predosa BO). Registration has to be made through Eventbrite.
+     On the registration page, you have to select the topic of interest. The workshop fee does NOT include:
+       coffee break, lunch, and access to PGDay.IT 2019. Participants has to bring their computer.
+       IMPORTANT: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED."
+
+# Workshop Tickets Block
+workshopTicketsTitle:
+    it: "Quota iscrizione workshop"
+    en: "workshop registration fee"
+workshopTicketsInfo:
+    it: "Quota iscrizione workshop - PGDay.IT 2019 - 16 maggio 2019"
+    en: "workshop registration fee - PGDay.IT 2019 - May 16th, 2019"
+workshopTicketsOffers:
+ -
+  name:
+    it: "Workshop - Ordinary ticket"
+    en: "Workshop - Ordinary ticket"
+  price: "35,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://pgday2019_workshop.eventbee.com"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  workshopTicketContentList:
+    it: ["Workshop Day", "16 maggio", "Bologna"]
+    en: ["Workshop Day", "May 16th", "Bologna"]
+  validFrom: "2019-02-18T10:00"
+  validThrough: "2019-05-05T23:59"
+  disabled: false
+
+# Workshop Location Block
+workshopBlockTitle: "Location"
+workshopLocationName: "Admiral Park Hotel"
+workshopLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+workshopStreetAddress: "Via Fontanella, 3"
+workshopAddressLocality: "Zola Predosa - Bologna"
+workshopAddressLocalityRegion: "(BO)"
+workshopPostalCode: "40069"
+workshopAddressCountry: "Italy"
+workshopStartTime: "2019-05-16T14:00"
+workshopDoorTime: "13:30"
+workshopEndTime: "2019-05-16T18:00"
+workshopPlaceCoordinates: "44.4627324, 11.1992285"
+workshopMapCenterCoordinates: "44.4627324, 11.1992285"
+workshopMapMobileCenterCoordinates: "44.4627324, 11.1992285"

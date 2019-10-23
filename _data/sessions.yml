@@ -1,0 +1,505 @@
+-
+  id: 000
+  title:
+    en: "Hall: Attendees registration"
+    it: "Hall: Registrazione partecipanti"
+  place: "Hall"
+  service: true
+  description:
+    en: ""
+    it: ""
+-
+  id: 307
+  title:
+    en: "Hall: Coffee break"
+    it: "Hall: Coffee break"
+  place: "Hall"
+  service: true
+  description:
+    en: "'"
+    it: "'"
+-
+  id: 503
+  title:
+    en: "Hall: Lunch"
+    it: "Hall: Pranzo"
+  place: "Hall"
+  service: true
+  description:
+    en: "'"
+    it: "'"
+-
+  id: 094
+  title:
+    en: "Lightning talk"
+    it: "Lightning talk"
+  service: true
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 095
+  title:
+    en: "Sala Plenaria Nelson: Keynote"
+    it: "Sala Plenaria Nelson: Keynote"
+  description:
+    en: ""
+    it: ""
+  subtype: Keynote
+  speakers: [1]
+  language: EN
+  complexity: "keynote"
+#  presentation: ""
+#  video: ""
+-
+  id: 001
+  title:
+    en: "Sala Plenaria Nelson: Keynote"
+    it: "Sala Plenaria Nelson: Keynote"
+  description:
+    en: ""
+    it: ""
+  subtype: Keynote
+  speakers: [0]
+  language: EN
+  complexity: "keynote"
+#  presentation: ""
+#  video: ""
+-
+  id: 023
+  title:
+    it: ""
+    en: ""
+  description:
+    it: ""
+    en: ""
+  subtype: Talk
+  speakers: [23]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 090
+  title:
+    en: "Sala Plenaria Nelson: Welcome"
+    it: "Sala Plenaria Nelson: Benvenuti"
+  description:
+    en: ""
+    it: ""
+  subtype: Talk
+  speakers: [30]
+  language: IT - EN
+  complexity: ""
+  #presentation: ""
+  #video: ""
+-
+  id: 040
+  title:
+    it: "Built-in Physical and Logical Replication in Postgresql"
+    en: "Built-in Physical and Logical Replication in Postgresql"
+  description:
+    it: "What is Replication?
+Why do we need Replication?
+How many replication layers do we have?
+Understanding milestones of built-in Database Physical Replication.
+What is the purpose of replication? and How to rescue system in case of failover?
+What is Streaming Replication and what is its advantages? Async vs Sync, Hot standby etc.
+How to configurate Master and Standby Servers? And What is the most important parameters? Example of topoloji.
+What is Cascading Replication and how to configurate it? Live Demo on Terminal.
+What is Logical Replication coming with PostgreSQL 10? And What is its advantages?
+Logical Replication vs Physical Replication
+Limitations of Logical Replication
+Quorum Commit for Sync Replication etc.
+10 Questions quiz and giving some gifts to participants according to their success."
+    en: "What is Replication?
+Why do we need Replication?
+How many replication layers do we have?
+Understanding milestones of built-in Database Physical Replication.
+What is the purpose of replication? and How to rescue system in case of failover?
+What is Streaming Replication and what is its advantages? Async vs Sync, Hot standby etc.
+How to configurate Master and Standby Servers? And What is the most important parameters? Example of topoloji.
+What is Cascading Replication and how to configurate it? Live Demo on Terminal.
+What is Logical Replication coming with PostgreSQL 10? And What is its advantages?
+Logical Replication vs Physical Replication
+Limitations of Logical Replication
+Quorum Commit for Sync Replication etc.
+10 Questions quiz and giving some gifts to participants according to their success."
+  subtype: Talk
+  speakers: [40]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 045
+  title:
+    it: "PostgreSQL at low-level: stay curious!"
+    en: "PostgreSQL at low-level: stay curious!"
+  description:
+    it: "PostgreSQL is a database that heavily relies on functionality provided by an underlying system, e.g. an OS, VM or a container. This approach allows the reuse of some best practices and algorithms of utilizing machine resources like memory or CPU time. But on the other hand, it means presence of unexpected and interesting details, that are visible only at low level.
+In this talk we will discuss how much impact different knobs and options of the Linux kernel have on PostgreSQL and why, what would happen if we run databases in virtualized environment or inside a container. We will share experience of running PostgreSQL inside Kubernetes, show how to see what's going on inside and how to break something spectacularly."
+    en: "PostgreSQL is a database that heavily relies on functionality provided by an underlying system, e.g. an OS, VM or a container. This approach allows the reuse of some best practices and algorithms of utilizing machine resources like memory or CPU time. But on the other hand, it means presence of unexpected and interesting details, that are visible only at low level.
+In this talk we will discuss how much impact different knobs and options of the Linux kernel have on PostgreSQL and why, what would happen if we run databases in virtualized environment or inside a container. We will share experience of running PostgreSQL inside Kubernetes, show how to see what's going on inside and how to break something spectacularly."
+  subtype: Talk
+  speakers: [45]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 046
+  title:
+    it: "pg_chameleon, replicare MySQL in PostgreSQL con semplicità"
+    en: "pg_chameleon, replicare MySQL in PostgreSQL con semplicità"
+  description:
+    it: "pg_chameleon è un sistema capace di leggere le modifiche ai dati dal protocollo di replica nativa di MySQL, e di replicarle
+all'interno di un database PostgreSQL. la coesistenza dei due motori.
+Inoltre pg_chameleon è in grado di convertire le DDL dal dialetto MySQL a quello PostgreSQL mantenendo gli schemi in sincronia automaticamente.
+Il sistema può essere usato sia per una replica permanente che per una migrazione di dati con downtime minimo.
+Il talk parlerà della storia, dell'implementazione corrente e i futuri sviluppi del prodotto.
+I partecipanti impareranno come configurare in maniera semplice una replica da MySQL a PostgreSQL. La presentazione si concluderà con una live demo del prodotto."
+    en: "pg_chameleon è un sistema capace di leggere le modifiche ai dati dal protocollo di replica nativa di MySQL, e di replicarle
+all'interno di un database PostgreSQL. la coesistenza dei due motori.
+Inoltre pg_chameleon è in grado di convertire le DDL dal dialetto MySQL a quello PostgreSQL mantenendo gli schemi in sincronia automaticamente.
+Il sistema può essere usato sia per una replica permanente che per una migrazione di dati con downtime minimo.
+Il talk parlerà della storia, dell'implementazione corrente e i futuri sviluppi del prodotto.
+I partecipanti impareranno come configurare in maniera semplice una replica da MySQL a PostgreSQL. La presentazione si concluderà con una live demo del prodotto."
+  subtype: Talk
+  speakers: [46]
+  language: IT
+  complexity: "Intermediate"
+  presentation: "http://2019.pgday.it/assets/pg_cham_pgday_ita_handout.pdf"
+#  video: ""
+-
+  id: 048
+  title:
+    it: "Around the world with extensions"
+    en: "Around the world with extensions"
+  description:
+    it: "Postgres continues to get more and more feature rich. But equally as impressive is the network of extensions that are growing around Postgres. With the rich extension APIs you can now add advanced functionality to Postgres without having to fork the codebase or wait for the main PostgreSQL release cycle. In this talk we'll cover some of the basics of what an extension is and then take a tour through a variety of Postgres extensions including:
+pg_stat_statments
+PostGIS
+HyperLogLog and TopN
+Timescale
+pg_partman
+Citus
+Foreign data wrappers which are their own whole class"
+    en: "Postgres continues to get more and more feature rich. But equally as impressive is the network of extensions that are growing around Postgres. With the rich extension APIs you can now add advanced functionality to Postgres without having to fork the codebase or wait for the main PostgreSQL release cycle. In this talk we'll cover some of the basics of what an extension is and then take a tour through a variety of Postgres extensions including:
+pg_stat_statments
+PostGIS
+HyperLogLog and TopN
+Timescale
+pg_partman
+Citus
+Foreign data wrappers which are their own whole class"
+  subtype: Talk
+  speakers: [48]
+  language: EN
+  complexity: "Intermediate"
+  presentation: "http://2019.pgday.it/assets/aroundtheworldwithextensions-181029185250.pdf"
+#  video: ""
+-
+  id: 049
+  title:
+    it: "Building an IoT startup with node.js and PostgreSQL"
+    en: "Building an IoT startup with node.js and PostgreSQL"
+  description:
+    it: "Questo talk è relativo a scelte di progettazione architetturale. Il contesto è una startup nel mondo IoT, Lapsy srl, ed in particolare la nostra piattaforma server. I nostri requisiti sono: riduzione al minimo dell’attività sistemistica, grande agilità nello sviluppo, sviluppo rapido del codice e elevate prestazioni. Abbiamo soddisfatto tutti questi requisiti scegliendo la combinazione Heroku, node.js e PostgreSQL. Per raggiungere i nostri obiettivi abbiamo 'abusato' di molte delle funzionalità che un moderno engine PostgreSQL è in grado di offrire, creando un sistema che separa in maniera netta il trattamento delle regole di business, che possono essere elegantemente gestite dentro al motore di PostgreSQL, dalla gestione dell’input e dell’output da e verso i dispositivi e i servizi esterni, gestito da node. Discuteremo dei benefici che questa soluzione non comunemente adottata offre e faremo una comparazione anche con soluzioni alternative."
+    en: "This talk is about architectural design. Our context is an IoT Startup company, Lapsy srl and in particular our server platform. Our requirements are: near zero operations, lots of agility, fast development and high performance. We met these requirements by combining together Heroku, node.js and PostgreSQL. In order to achieve our goals we 'abused' of most of the capabilities that modern PostgreSQL offers, building a system that clearly separates the business rules concerns, that can be elegantly dealt with inside the PostgreSQL engine, from the input and output to the devices and external services that is handled by node. We will discuss about the benefits that such uncommon approach provides and compare it with alternative solutions."
+  subtype: Talk
+  speakers: [49]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 050
+  title:
+    it: "Come usare Postgresql per gestire lo storage delle metriche di Prometeus"
+    en: "Come usare Postgresql per gestire lo storage delle metriche di Prometeus"
+  description:
+    it: "Benche' Prometheus disponga di un proprio database di serie temporali specifico per il monitoraggio della metrica, con PostgreSQL gli utenti sono in grado di porre domande complesse e ottenere un'interfaccia SQL completa. Inoltre PostgreSQL può essere scalato facilmente a 10s per TBs tramite l'estensione TimescaleDB, che aggiunge anche utili funzioni in SQL e ottimizzazioni per lavorare con i dati delle serie temporali.
+A livello software si utilizzera' pg_prometheus, un tipo di dati personalizzato Prometheus, un prometheus-postgresql-adapter ed un adapter per il salvataggio dei dati su PostgreSQL. Verra' mostrato perché queste query complesse sono spesso utili e necessarie per agire efficacemente sui dati raccolti e su come possono essere abilitate per essere eseguite anche su miliardi di righe di dati."
+    en: "Benche' Prometheus disponga di un proprio database di serie temporali specifico per il monitoraggio della metrica, con PostgreSQL gli utenti sono in grado di porre domande complesse e ottenere un'interfaccia SQL completa. Inoltre PostgreSQL può essere scalato facilmente a 10s per TBs tramite l'estensione TimescaleDB, che aggiunge anche utili funzioni in SQL e ottimizzazioni per lavorare con i dati delle serie temporali.
+A livello software si utilizzera' pg_prometheus, un tipo di dati personalizzato Prometheus, un prometheus-postgresql-adapter ed un adapter per il salvataggio dei dati su PostgreSQL. Verra' mostrato perché queste query complesse sono spesso utili e necessarie per agire efficacemente sui dati raccolti e su come possono essere abilitate per essere eseguite anche su miliardi di righe di dati."
+  subtype: Talk
+  speakers: [50]
+  language: IT
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 051
+  title:
+    it: "Privacy and security: PostgreSQL to the rescue"
+    en: "Privacy and security: PostgreSQL to the rescue"
+  description:
+    it: "Privacy and security: PostgreSQL to the rescue
+Big Data, GDPR, Machine Learning, Artificial Intelligence, IOT, etc sono tutte tecnologie che fanno uso di grandi quantità di informazioni memorizzate su database relazionali, NOSQL oppure a grafo.
+Come proteggere queste basi di dati? Come limitare l’accesso solo alle informazioni necessarie?
+Nel talk si vedrà come PostgreSQL renda semplici queste operazioni attraverso funzionalità native ed alcune estensioni:
+- Gestire l’accesso al database
+- Row security policies:
+    - visibilità dei dati per riga
+    - visibilità dei dati per colonna
+- Strategie di anonimizzazione dei dati
+    - crypting
+    - facking
+    - Shuffling
+- Backup strategies"
+    en: "Privacy and security: PostgreSQL to the rescue
+Big Data, GDPR, Machine Learning, Artificial Intelligence, IOT, etc sono tutte tecnologie che fanno uso di grandi quantità di informazioni memorizzate su database relazionali, NOSQL oppure a grafo.
+Come proteggere queste basi di dati? Come limitare l’accesso solo alle informazioni necessarie?
+Nel talk si vedrà come PostgreSQL renda semplici queste operazioni attraverso funzionalità native ed alcune estensioni:
+- Gestire l’accesso al database
+- Row security policies:
+    - visibilità dei dati per riga
+    - visibilità dei dati per colonna
+- Strategie di anonimizzazione dei dati
+    - crypting
+    - facking
+    - Shuffling
+- Backup strategies"
+  subtype: Talk
+  speakers: [51]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 052
+  title:
+    it: "Jsonpath - a query language for json"
+    en: "Jsonpath - a query language for json"
+  description:
+    it: "PostgreSQL is the first relational database, that recognized the need of non-atomic data types to support developers of applications from science to Web. Jsonb in Postgres is the attractive feature for modern application developers, who want to work with json documents without sacrificing a strong consistency and ability to use all the power of proven relational technology.
+Finally, SQL world has recognized the NoSQL and released the new SQL-2016 standard, which includes specification of SQL/JSON data model and path language, as well as SQL commands for storing, publishing and quering JSON data. I will present the implementation of jsonpath, the path language for querying json  in PostgreSQL and discuss possible extensions."
+    en: "PostgreSQL is the first relational database, that recognized the need of non-atomic data types to support developers of applications from science to Web. Jsonb in Postgres is the attractive feature for modern application developers, who want to work with json documents without sacrificing a strong consistency and ability to use all the power of proven relational technology.
+Finally, SQL world has recognized the NoSQL and released the new SQL-2016 standard, which includes specification of SQL/JSON data model and path language, as well as SQL commands for storing, publishing and quering JSON data. I will present the implementation of jsonpath, the path language for querying json  in PostgreSQL and discuss possible extensions."
+  subtype: Talk
+  speakers: [52]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 053
+  title:
+    it: "Postgres in a serverless infrastracture: trial an error"
+    en: "Postgres in a serverless infrastracture: trial an error"
+  description:
+    it: "Sono il CTO di Virality, una startup nata a inizio 2018. Il principale prodotto che abbiamo sviluppato è un Progressive Web App che analizza i dati Instagram di aspiranti influencer per aiutare la loro crescita e metterli in contatto con aziende. Come ogni startup che si rispetti abbiamo deciso di utilizzare il meglio che il panorama tecnologico ci proponeva. Abbiamo quindi deciso di puntare ad un'infrastruttura a microservizi e di implementare questi servizi con tecnologie serverless dove era possibile. In questo talk spiegherò le principali motivazioni che ci hanno spinto a scegliere PostgresSQL al posto di DynamoDB, e le principali sfide (e ore di downtime) che abbiamo affrontato nell’utilizzo di Postgres in un infrastruttura serverless."
+    en: "Sono il CTO di Virality, una startup nata a inizio 2018. Il principale prodotto che abbiamo sviluppato è un Progressive Web App che analizza i dati Instagram di aspiranti influencer per aiutare la loro crescita e metterli in contatto con aziende. Come ogni startup che si rispetti abbiamo deciso di utilizzare il meglio che il panorama tecnologico ci proponeva. Abbiamo quindi deciso di puntare ad un'infrastruttura a microservizi e di implementare questi servizi con tecnologie serverless dove era possibile. In questo talk spiegherò le principali motivazioni che ci hanno spinto a scegliere PostgresSQL al posto di DynamoDB, e le principali sfide (e ore di downtime) che abbiamo affrontato nell’utilizzo di Postgres in un infrastruttura serverless."
+  subtype: Talk
+  speakers: [53]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 055
+  title:
+    it: "MAPPE 🗺️ CON GEODJANGO 🌎, POSTGIS 🐘 E LEAFLET 🍃"
+    en: "Maps 🗺️ with GeoDjango 🌎, PostGIS 🐘 and Leaflet 🍃"
+  description:
+    it: "Una mappa permette agli utenti di visualizzare e ricercare i dati in maniera spaziale ed è comune l’esigenza di aggiungerne una al proprio progetto web.
+In questo talk vedremo come abbiamo integrato una mappa in un progetto web già in produzione usando GeoDjango, PostGIS e Leaflet ed eseguiremo una dimostrazione di integrazione da zero di una mappa in un progetto Django.
+GeoDjango è un modulo incluso in Django che lo trasforma in un framework Web geografico di classe mondiale.
+PostGIS è un estensione del database PostgreSQL che aggiunge il supporto per gli oggetti geografici consentendo di eseguire query spaziali.
+Leaflet è la principale libreria JavaScript open source per mappe web interattive ottimizzate per dispositivi mobili."
+    en: "A map allows users to view and search for data in a spatial way and it is common to add one to their web project.
+In this talk we will see how we have integrated a map into a web project already in production using GeoDjango, PostGIS and Leaflet and we will perform a demonstration of integration of a map from scratch into a Django project.
+GeoDjango is a module included in Django that transforms it into a world-class geographic Web framework.
+PostGIS is an extension of the PostgreSQL database that adds support for geographic objects allowing you to perform spatial queries.
+Leaflet is the leading open source JavaScript library for interactive web maps optimized for mobile devices."
+  subtype: Talk
+  speakers: [55]
+  language: EN
+  complexity: "Intermediate"
+  presentation: "http://2019.pgday.it/assets/Maps with GeoDjango, PostGIS and Leaflet.pdf"
+#  video: ""
+-
+  id: 056
+  title:
+    it: "Collations: Introduction, Features, Problems"
+    en: "Collations: Introduction, Features, Problems"
+  description:
+    it: "The sort order of text in an SQL database is influenced by so-called
+collations. These usually work behind the scenes, but they offer a
+number of interesting customization possibilities, while also being a
+potential source of operational problems and user confusion.
+
+In this presentation, I want to start by explaining how modern
+collations work and what the role of Unicode is. Then we'll discuss
+what variants and customization options exist, such as
+language-specific collation and case insensitivity, and how PostgreSQL
+implements those. Here we can also take a look ahead at relevant
+development projects for future PostgreSQL versions. Finally, we'll
+look at how collations affect the management of databases and
+particularly upgrades. There are some traps here that could cause
+index corruption or data loss."
+    en: "The sort order of text in an SQL database is influenced by so-called
+collations. These usually work behind the scenes, but they offer a
+number of interesting customization possibilities, while also being a
+potential source of operational problems and user confusion.
+
+In this presentation, I want to start by explaining how modern
+collations work and what the role of Unicode is. Then we'll discuss
+what variants and customization options exist, such as
+language-specific collation and case insensitivity, and how PostgreSQL
+implements those. Here we can also take a look ahead at relevant
+development projects for future PostgreSQL versions. Finally, we'll
+look at how collations affect the management of databases and
+particularly upgrades. There are some traps here that could cause
+index corruption or data loss."
+  subtype: Talk
+  speakers: [1]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 057
+  title:
+    it: "How to use logical decoding to build a custom replication system"
+    en: "How to use logical decoding to build a custom replication system"
+  description:
+    it: "With recent versions of PostgreSQL, there is  built-in support for logical replication. However, it is not meant to accomodate custom replication schemes, such as replicating to a different table, or capturing changes.
+In this talk, I will show you what we did at PeopleDoc to leverage the logical decoding and streaming infrastructure to build our custom replication solution.
+This will teach you how to use:
+  - logical replication slots
+  - logical decoders
+  - replication origins
+  - the logical replication protocol, using libpq"
+    en: "With recent versions of PostgreSQL, there is  built-in support for logical replication. However, it is not meant to accomodate custom replication schemes, such as replicating to a different table, or capturing changes.
+In this talk, I will show you what we did at PeopleDoc to leverage the logical decoding and streaming infrastructure to build our custom replication solution.
+This will teach you how to use:
+  - logical replication slots
+  - logical decoders
+  - replication origins
+  - the logical replication protocol, using libpq"
+  subtype: Talk
+  speakers: [57]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 058
+  title:
+    it: "Tracciare i cambiamenti in PostgreSQL con la replica logica, fluentd e ClickHouse"
+    en: "Tracciare i cambiamenti in PostgreSQL con la replica logica, fluentd e ClickHouse"
+  description:
+    it: "Spesso dobbiamo implementare un sistema per il tracciamento dei cambiamenti
+nella nostra base di dati, alcune volte addirittura per esigenze normative. In
+molti casi vengono implementati sistemi custom utilizzando trigger, colonne
+timestamp, tabelle aggiuntive e modifiche varie all'applicazione. Questo
+richiede sforzi nello sviluppo, nella gestione e modifiche allo schema
+alcune volte importanti.
+Perché non usare un motore appositamente pensato per gestire i dati in serie
+temporale?
+PostgreSQL fornisce già la replica logica per tracciare i cambiamenti, e le
+modifiche potrebbero essere lette da Fluentd usando wal2json, processate ed
+accorpate a tutti gli altri eventi del sistema per poi confluire in ClickHouse,
+un motore DBMS analitico interamente Open Source che in questo momento gestisce il secondo servizio di Web Analytics usato in Internet: Yandex Metrica. Anche CloudFlare usa ClickHouse per le sue necessità analitiche.
+Tutto questo ci permetterebbe di usare al meglio PostgreSQL con la consistenza
+che lo contraddistingue e la potenza della replica logica, delegando la
+tracciatura dei cambiamenti ad altri. Inoltre le diverse fonti di eventi
+possono ora essere aggregate per facilitare l'analisi."
+    en: "Spesso dobbiamo implementare un sistema per il tracciamento dei cambiamenti
+nella nostra base di dati, alcune volte addirittura per esigenze normative. In
+molti casi vengono implementati sistemi custom utilizzando trigger, colonne
+timestamp, tabelle aggiuntive e modifiche varie all'applicazione. Questo
+richiede sforzi nello sviluppo, nella gestione e modifiche allo schema
+alcune volte importanti.
+Perché non usare un motore appositamente pensato per gestire i dati in serie
+temporale?
+PostgreSQL fornisce già la replica logica per tracciare i cambiamenti, e le
+modifiche potrebbero essere lette da Fluentd usando wal2json, processate ed
+accorpate a tutti gli altri eventi del sistema per poi confluire in ClickHouse,
+un motore DBMS analitico interamente Open Source che in questo momento gestisce il secondo servizio di Web Analytics usato in Internet: Yandex Metrica. Anche CloudFlare usa ClickHouse per le sue necessità analitiche.
+Tutto questo ci permetterebbe di usare al meglio PostgreSQL con la consistenza
+che lo contraddistingue e la potenza della replica logica, delegando la
+tracciatura dei cambiamenti ad altri. Inoltre le diverse fonti di eventi
+possono ora essere aggregate per facilitare l'analisi."
+  subtype: Talk
+  speakers: [58]
+  language: IT
+  complexity: "Intermediate"
+  presentation: "http://2019.pgday.it/assets/postgresql-clickhouse-it.pdf"
+#  video: ""
+-
+  id: 059
+  title:
+    it: "PostgreSQL on the kube"
+    en: "PostgreSQL on the kube"
+  description:
+    it: "Kubernetes è un sistema di orchestrazione di container che permette di gestire il deploy, lo scaling e l’aggiornamento di una applicazione e di tutti i suoi componenti.
+In questo talk parleremo di quali strumenti sono a disposizione per effettuare un deploy di un database PostgreSQL in un cluster Kubernetes. Inoltre vedremo come sia implementabile l’alta disponibilità e la disaster recovery, in maniera da avere i propri dati al sicuro e sempre accessibili ."
+    en: "Kubernetes è un sistema di orchestrazione di container che permette di gestire il deploy, lo scaling e l’aggiornamento di una applicazione e di tutti i suoi componenti.
+In questo talk parleremo di quali strumenti sono a disposizione per effettuare un deploy di un database PostgreSQL in un cluster Kubernetes. Inoltre vedremo come sia implementabile l’alta disponibilità e la disaster recovery, in maniera da avere i propri dati al sicuro e sempre accessibili ."
+  subtype: Talk
+  speakers: [62]
+  language: IT
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 060
+  title:
+    it: "Dati: sicurezza e cifratura"
+    en: "Dati: sicurezza e cifratura"
+  description:
+    it: "La sicurezza dei dati è una tematica sempre più importante. In questo talk analizzeremo le pratiche e le tecnologie disponibili su vari livelli (disco, rete, database, ...) per impedire accessi non autorizzati."
+    en: "La sicurezza dei dati è una tematica sempre più importante. In questo talk analizzeremo le pratiche e le tecnologie disponibili su vari livelli (disco, rete, database, ...) per impedire accessi non autorizzati."
+  subtype: Talk
+  speakers: [60]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 061
+  title:
+    it: "Barman in action"
+    en: "Barman in action"
+  description:
+    it: "Barman has recently added interesting features for managing backups and recovery of PostgreSQL instances. Let's look at some of the most common ways to configure Barman with PostgreSQL and secure your data, until zero data loss is achieved."
+    en: "Barman has recently added interesting features for managing backups and recovery of PostgreSQL instances. Let's look at some of the most common ways to configure Barman with PostgreSQL and secure your data, until zero data loss is achieved."
+  subtype: Talk
+  speakers: [61]
+  language: EN
+  complexity: "Intermediate"
+  presentation: "http://2019.pgday.it/assets/Barman in action.pdf"
+#  video: ""
+-
+  id: 325
+  title:
+    en: "Sala Plenaria Nelson: Work closure & Aperitivo"
+    it: "Sala Plenaria Nelson: Chiusura lavori con Aperitivo"
+  place: "Hall"
+  service: true
+  description:
+    en: "'"
+    it: "'"
+-
+  id: 997
+  title:
+    it: ""
+    en: ""
+  description:
+    it: ""
+    en: ""
+  subtype: Talk
+  speakers: [99]
+  language:
+  complexity: ""
+#  presentation: ""
+#  video: ""

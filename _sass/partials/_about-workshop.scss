@@ -1,0 +1,46 @@
+$workshop-img-width: 250px;
+$small-workshop-img-width: 150px;
+
+.workshop-row {
+	margin-bottom: 90px;
+    @media (max-width: 767px) {
+        margin-bottom: 50px;
+    }
+	&.float-right {
+		.workshop-img-wrapper {
+			float: right;
+		}
+		.workshop-details {
+			text-align: right;
+			margin-left: 0;
+			margin-right: $workshop-img-width + 50px;
+		    @media (max-width: 767px) {
+		    	text-align: left;
+				margin-right: 0;
+		    }
+		}
+	}
+}
+.workshop-img-wrapper {
+	float: left;
+    @media (max-width: 767px) {
+        float: right;
+    }
+	img {
+		max-width: $pgbeer-img-width;
+		margin: 0 auto;
+        @media (max-width: 767px) {
+            max-width: $small-pgbeer-img-width;
+        }
+	}
+}
+.workshop-details {
+	text-align: left;
+	margin-left: $workshop-img-width + 50px;
+    @media (max-width: 767px) {
+        margin-left: 0;
+    }
+    p {
+    	font-size: 16px;
+    }
+}

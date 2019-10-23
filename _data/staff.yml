@@ -1,0 +1,142 @@
+-
+  id: 0
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Desk registrazione partecipanti "
+  thumbnailUrl: patri.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+-
+  id: 1
+  name: "Barbara"
+  surname: "Milani"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: bam965.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+-
+  id: 2
+  name: "Andrej"
+  surname: "Sossi"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: andrej.png
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 3
+  name: "Torello"
+  surname: "Querci"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: torello.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 4
+  name: "Gianni"
+  surname: "Ciolli"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: gianni_ciolli.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
+    - {name: "linkedin", link: ""}
+-
+  id: 5
+  name: "Denis"
+  surname: "Gasparin"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: denis_gasparin.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
+  id: 6
+  name: "Leonardo"
+  surname: "Cecchi"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: leonardo_cecchi.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/leonardo_cecchi/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
+-
+  id: 7
+  name: "Tamara"
+  surname: "Nocentini"
+  title: "Desk registrazione partecipanti"
+  thumbnailUrl: tamara.jpg
+  staff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295"}
+-
+  id: 0
+  name: "Stefano"
+  surname: "Frigerio"
+  title: "Host Italian track"
+  thumbnailUrl: Stefano_Frigerio.jpg
+  subStaff: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/stefanofrigerio"}
+    - {name: "linkedin", link: ""}
+-
+  id: 1
+  name: "Rubens"
+  surname: "Souza"
+  title: "Host English track"
+  thumbnailUrl: rubens.jpg
+  subStaff: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/rubens_ts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
+-
+  id: 2
+  name: "Giulio Calacoci"
+  surname: ""
+  title: "Host Lightning Talk"
+  thumbnailUrl: giulio-calacoci.jpg
+  subStaff: true
+  social:
+    - {name: "github", link: "https://github.com/gcalacoci"}
+    - {name: "twitter", link: "https://twitter.com/asdmaster"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gcalacoci/"}
+-
+  id: 0
+  name: "Emanuele"
+  surname: "Zamprogno"
+  title: "Fotografo ufficiale del PGDay.IT"
+  thumbnailUrl: emanuele_zamprogno.jpg
+  exStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
+-
+  id: 1
+  name: "Domenico"
+  surname: "Commisso"
+  title: "Assistenza tecnica"
+  thumbnailUrl: domenico_commisso.jpeg
+  exStaff: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/domenico-commisso-8a6011122/"}

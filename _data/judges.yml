@@ -1,0 +1,65 @@
+-
+  id: 0
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
+  id: 1
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
+  id: 2
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
+  id: 3
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}
+-
+  id: 4
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  thumbnailUrl:
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: ""}
+    - {name: "facebook", link: ""}

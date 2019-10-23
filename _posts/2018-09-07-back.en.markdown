@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "We are back!"
+date:   2018-09-14 04:00:00
+isStaticPost: false
+permalink: /en/blog/back
+image: back.jpg
+lang: en
+ref: back
+---
+
+<h6>PGDay.IT 2019 opens the doors.</h6>
+
+We are full of enthusiasm because the [last edition](https://2018.pgday.it/en/) has been fantastic!
+More than 150 enthusiastic attendees, interesting talks, great speakers, fantastic partners, and a beautiful location. We have also received very positive feedback from the participants!
+
+We couldn't have asked for a better result.
+Thanks to everybody: attendees, speakers, staff, and partners. We hope to meet you again during this new edition of [PGDay.IT](https://2019.pgday.it/en/).
+
+[PGDay.IT 2019](https://2019.pgday.it/en/) will be held in [Bologna](https://www.bolognawelcome.com/en/) on May 17th, 2019.
+
+The chosen location is the [Admiral Park Hotel](https://2019.pgday.it/en/logistics/). The hotel is located in a beautiful and strategic position, surrounded by a vast park, just a few minutes from the [Guglielmo Marconi Airport (BLQ)](https://www.bologna-airport.it/en/travellers.aspx?idC=61676&LN=en-US), and from the [Bologna central train station](https://www.bolognacentrale.it/en/) and, also, from the [Bologna Fiere](http://www.bolognafiere.it/en/home) exhibition centre.
+
+How is the conference structured?
+
+**May 17th** will be the day for the Talks and Presentations. The keynote, eight talks in Italian, eight talks in English, and,  at the end of the day, we will have the lightning talks, as long as there are enough propositions. Anything else? We are considering having a closing aperitivo, what do you think?
+
+**May 16th** is reserved for the Workshop Day 2019. Four hours dedicated to specific topics chosen among the proposals that we will receive. The 2018 edition has received so many inscriptions and praises from those who have participated.
+
+Focus points:
+* Attendees: we are expecting so many… a lot of people, actually! Our goal? 250!!!
+* Topics: More than 16 hours dedicated entirely to PostgreSQL, lots of talks with high technical content, and the community experience that cannot be missed.
+* When: PGDay.IT May 17th, 2019 - Workshop Day May 16th, 2019.
+* Speakers: The [Call for Papers is open](https://2019.pgday.it/en/blog/cfp) and we expect many interesting proposals. One might be yours! We are also working to ensure the presence of “Rockstars” of the PostgreSQL Ecosystem and supporters of the Open Source world.
+* Workshop: The [Call for Workshop is open](https://2019.pgday.it/en/blog/cfw). Four “hands-on” hours dedicate to specific topics.
+* Location: [Admiral Park Hotel](https://2019.pgday.it/en/logistics/) is an excellent location because it will allow us to organize everything with comfort in a very interesting and beautiful place!
+
+<h6>Are you packing your bags already?</h6>
+
+More details about the selected speakers and the schedule will be published on the PGDay.IT 2019 blog and shared throughout our social channels.
+Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) so you will not miss any update about the [PGDay.IT 2019](https://2019.pgday.it/en/).

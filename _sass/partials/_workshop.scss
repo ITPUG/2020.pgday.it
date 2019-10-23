@@ -1,0 +1,23 @@
+$workshop-img-width: 250px;
+$small-workshop-img-width: 110px;
+
+.workshop {
+	h3 {
+		margin-bottom: 20px;
+	}
+}
+.workshop {
+	margin-top: 50px;
+	&:nth-child(3) {
+		margin-top: 0;
+	}
+}
+.workshop-img-wrapper {
+	img {
+		max-width: $workshop-img-width;
+		margin: 0 auto;
+        @media (max-width: 767px) {
+            max-width: $small-workshop-img-width;
+        }
+	}
+}

@@ -1,0 +1,21 @@
+<!-- Begin Workshops Location Section -->
+<section id="hackathon-location" class="hackathon-location">
+    <div id="canvas-map" class="canvas-map"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-3 col-md-4 col-sm-6 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            {% if site.workshopLocationName %}
+            <h5 class="location-name">{{ site.workshopLocationName }}</h5>
+            {% endif %}
+        <p class="location-address">{{ site.workshopStreetAddress }}, {{ site.workshopAddressLocality }}</p>
+            <div class="hackathon-time">
+                <span>{{ site.workshopTimeTitle }}</span>
+                {% assign startTime = site.workshopStartTime | split: "T" %}
+                <time>{{ startTime[1] }}</time> -
+                {% assign endTime = site.workshopEndTime | split: "T" %}
+                <time>{{ endTime[1] }}</time>
+            </div>
+            <a href="https://maps.google.com/maps?ll={{ site.workshopPlaceCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.workshopStreetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.workshopAddressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.viewOnMap[page.lang] }}</a>
+        </div>
+    </div>
+</section>
+<!-- End Workshops Location Section -->
