@@ -3,205 +3,82 @@
   elements:
     -
       name:
-        it: "2ndQuadrant"
-        en: "2ndQuadrant"
+        it: ""
+        en: ""
       description:
-        it: "2ndQuadrant è stata fondato nel 2001 da Simon Riggs, major developer e committer del progetto PostgreSQL. Il team di esperti è in continua crescita ed è composto da alcuni dei più noti e attivi sviluppatori di PostgreSQL al mondo, con lo scopo di creare il più grande team di esperti PostgreSQL a livello globale. I membri di 2ndQuadrant contribuiscono attivamente allo sviluppo di PostgreSQL."
-        en: "2ndQuadrant is a team of diligent PostgreSQL experts. Their support engineers have over 100 years of combined code contributions to the PostgreSQL project, making them the only company to contribute enterprise features to all of the last 13 releases. This is paired with 17+ years of hands-on experience through client engagements to allow them to integrate customized solutions with their customers - making 2ndQuadrant the Gold Standard for PostgreSQL products & services."
-      link: "https://www.2ndquadrant.com/"
-      imageUrl: "2ndQuadrant.png"
-#-
-#  group: "Platinum Partners"
-#  elements:
-#    -
-#      name:
-#        it: ""
-#        en: ""
-#      description:
-#        it: ""
-#        en: ""
-#      link: ""
-#      imageUrl: ""
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
+-
+  group: "Platinum Partners"
+  elements:
+    -
+      name:
+        it: ""
+        en: ""
+      description:
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Gold Partners"
   elements:
     -
       name:
-        it: "Subito"
-        en: "Subito"
+        it: ""
+        en: ""
       description:
-        it: "Subito è l’azienda n. 1 in Italia per comprare e vendere. Siamo nati a Milano nel 2007 e oggi, nel nostro Paese, ci posizioniamo stabilmente tra i primi 10 brand online più visitati e come primo servizio di annunci su web (fonte: Media Audiweb Total Digital Audience 2016).
-        Ogni giorno Subito può contare su un milione e ottocento mila visitatori unici, 45 milioni di pagine viste e 150 mila nuovi annunci pubblicati.
-        Da sempre il nostro obiettivo è offrire il servizio online di compravendita più semplice, veloce e sicuro d’Italia. Con Subito, persone alla prima esperienza e utenti professionali riescono a fare ottimi affari.
-        Dobbiamo i grandi risultati ottenuti ad una piattaforma intuitiva ed efficace e a un’offerta ampia e di qualità, con contenuti controllati per una maggiore sicurezza. E poi, certo, a una squadra instancabile fatta di persone che lavorano, con passione, per le persone.
-        Subito è parte di Schibsted Media Group, multinazionale norvegese che opera con successo in 29 Paesi nei mercati editoriale (quotidiani e free press), online (siti di annunci di compravendita e servizi digitali) e mobile. Il Gruppo è stato fondato nel 1839 e oggi conta 6.900 dipendenti."
-        en: "Founded in 2007 in Milan, Subito.it is the company owning Subito's digital platform. Subito aims to offer the easiest, fastest and safest buying and selling online service to make good deals through service’s efficiency and quality and variety of the offer.
-        With over 5 million ads in 37 different product categories diversified per geographical locations, more than 8 million unique users monthly and over 45 million page views daily, Subito is the first classified service and is among the top six most visited websites in Italy (source: Audiweb Total Digital Audience 2016 average).
-        Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
-      link: "https://www.subito.it/"
-      imageUrl: "subito.jpg"
-    -
-      name:
-        it: "Entrprise DB"
-        en: "Entrprise DB"
-      description:
-        it: "EnterpriseDB (EDB), the Enterprise Postgres company, delivers an open source-based data management platform, optimized for greater scalability, security, and reliability. EDB is leading global provider of Postgres with 16 offices worldwide, EDB enhances Postgres making it enterprise ready. EDB Postgres makes organizations smarter while reducing risk and complexity with enterprise-proven management tools, security enhancements and Oracle compatibility. Over 4,000 customers worldwide including ABN AMRO, the American Automobile Association (AAA), Clear Capital, EMC, Ericsson, KT Corporation, MasterCard, the National Health Service (U.K.), Netflix, Nokia Siemens, S-Kreditpartner GmbH, Sony, Staples, the Nielsen Company, TransUnion, and U.S. Cellular have turned to EDB."
-        en: "EnterpriseDB (EDB), the Enterprise Postgres company, delivers an open source-based data management platform, optimized for greater scalability, security, and reliability. EDB is leading global provider of Postgres with 16 offices worldwide, EDB enhances Postgres making it enterprise ready. EDB Postgres makes organizations smarter while reducing risk and complexity with enterprise-proven management tools, security enhancements and Oracle compatibility. Over 4,000 customers worldwide including ABN AMRO, the American Automobile Association (AAA), Clear Capital, EMC, Ericsson, KT Corporation, MasterCard, the National Health Service (U.K.), Netflix, Nokia Siemens, S-Kreditpartner GmbH, Sony, Staples, the Nielsen Company, TransUnion, and U.S. Cellular have turned to EDB."
-      link: "https://www.enterprisedb.com/"
-      imageUrl: "EnterpriseDB_corporate_logo.png"
-    -
-      name:
-        it: "Arcoda"
-        en: "Arcoda"
-      description:
-        it: "Arcoda è una società del mondo ICT che da un decennio sviluppa con successo piattaforme tecnologiche innovative per lo smart work force management. PostgreSQL e PostGIS sono per noi strumenti di uso quotidiano, che ci permettono di realizzare applicazioni sempre innovative e performanti. La nostra scelta di adottare questa tecnologia è dovuta alle sue caratteristiche e, fattore non meno importante, alla vivace community che contribuisce al suo continuo sviluppo e miglioramento. Ritroviamo con piacere questa community al PGDay 2019, appuntamento al quale anche quest'anno parteciperemo attivamente."
-        en: "Arcoda is an ICT company that for a decade has successfully developed innovative technological platforms for smart work force management. PostgreSQL and PostGIS are everyday tools for us, which allow us to create innovative and high-performance applications. Our choice to adopt this technology is due to its characteristics and, no less important, to the lively community that contributes to its continuous development and improvement. We are pleased to see this community at PGDay 2019, an event that we will actively participate in this year too."
-      link: "https://www.arcoda.it/"
-      imageUrl: "Arcoda.jpg"
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Silver Partners"
   elements:
     -
       name:
-        it: "Metodo"
-        en: "Metodo"
+        it: ""
+        en: ""
       description:
-        it: "Metodo e' una societa' di informatica sul mercato da oltre trenta anni. Gia' dalla seconda meta' degli '90  ha intuito l'impatto che il modello di sviluppo open source avrebbe avuto sul mercato delle applicazioni e dei sistemi operativi, adottando come tecnologia server le primissime versioni del sistema operativo Linux. Dal 2001 le soluzioni Metodo si estendono anche al desktop ed attualmente sono utilizzate su oltre 1200 posti di lavoro. Sviluppa il software gestionale OpenMetopack che, affiancato dalla stabilita' della piattaforma Linux, costituisce una ottima soluzione integrata per Imprese e Associazioni di Categoria con un installato di oltre 500 impianti. Il database SQL di riferimento e' PostgreSQL."
-        en: "Metodo has been an IT Company in the market for over thirty years. In the second half of the 1990s Metodo realized the impact that the open source development model would have on the market of applications and operating systems, adopting the first versions of the Linux operating system as their server technology. Since 2001, Metodo solutions has also extended to desktop and is currently used on over 1200 jobs. They develop OpenMetopack's management software, and coupled with the Linux platform stability, it is a great integrated solution for both Enterprises and Associations with a capacity of over 500 installations. The SQL database is PostgreSQL."
-      link: "http://www.metodo.net/metodo/home"
-      imageUrl: "logo_metodo_3.png"
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Bronze Partners"
   elements:
     -
       name:
-        it: "Citus Data"
-        en: "Citus Data"
+        it: ""
+        en: ""
       description:
-        it: "Citus è Postgres senza preoccupazioni, costruito per scalare. Realizzato per SaaS e per enterprise, Citus è un'estensione di Postgres che distribuisce dati e query su più nodi. Se è necessario ridimensionare un'app multi-tenant - o creare dashboard analitici in tempo reale che richiedono risposte inferiori al secondo - Citus semplifica lo sharding di Postgres. Il nostro database distribuito Citus è disponibile come open source, come software enterprise e come database as a service."
-        en: "Citus is worry-free Postgres that is built to scale out. Made for SaaS and enterprises, Citus is an extension to Postgres that distributes data and queries across multiple nodes. Whether you need to scale out a multi-tenant app — or are building real-time analytics dashboards that require sub-second responses — Citus makes it simple to shard Postgres. Our Citus distributed database is available as open source, as enterprise software, and as a fully-managed database as a service."
-      link: "https://www.citusdata.com/"
-      imageUrl: "Citus_Data.png"
-    -
-      name:
-        it: "Forma SRL"
-        en: "Forma SRL"
-      description:
-        it: "Forma, fin dalla sua nascita nel 1995, ha adottato PostgreSQL per lo
-             sviluppo di applicazioni. Può vantare pertanto una più che ventennale
-             esperienza con PostsgreSQL.
-             Forma srl, con sede a Vicenza, è composta da un team di programmatori
-             qualificati e specializzati nella realizzazione di portali e
-             applicazioni web per grandi aziende, PMI e Pubblica Amministrazione.
-             Con PostgreSQL Forma ha realizzato centinaia di applicazioni: portali
-             internet/intranet per Aziende sanitarie e altre PA, database
-             multimediali per archivi di beni culturali, soluzioni di e-commerce e
-             molte altre applicazioni di vario genere."
-        en: "Forma, fin dalla sua nascita nel 1995, ha adottato PostgreSQL per lo
-             sviluppo di applicazioni. Può vantare pertanto una più che ventennale
-             esperienza con PostsgreSQL.
-             Forma srl, con sede a Vicenza, è composta da un team di programmatori
-             qualificati e specializzati nella realizzazione di portali e
-             applicazioni web per grandi aziende, PMI e Pubblica Amministrazione.
-             Con PostgreSQL Forma ha realizzato centinaia di applicazioni: portali
-             internet/intranet per Aziende sanitarie e altre PA, database
-             multimediali per archivi di beni culturali, soluzioni di e-commerce e
-             molte altre applicazioni di vario genere."
-      link: "https://www.webforma.it/"
-      imageUrl: "forma.png"
-    -
-      name:
-        it: "R3 GIS Srl - GmbH"
-        en: "R3 GIS Srl - GmbH"
-      description:
-        it: "Dal 2003 R3 GIS realizza soluzioni web per la gestione dei dati territoriali. L’esperienza maturata negli anni grazie al contatto diretto con gli utilizzatori finali degli applicativi, la continua formazione del personale e la partecipazione ad eventi internazionali del settore GIS ci hanno permesso di ideare prodotti flessibili, semplici ed estremamente efficaci. R3 GIS si è così affermata come fornitore affidabile e competente. L’impostazione multilingue delle soluzioni permette ad R3 GIS di essere presente anche sul mercato estero."
-        en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
-      link: "http://www.r3-gis.com/"
-      imageUrl: "logo_r3gis.jpg"
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Media Partners"
   elements:
     -
       name:
-        it: "Postgres Women"
-        en: "Postgres Women"
+        it: ""
+        en: ""
       description:
-        it: "Postgres Women is a non-profit organization created to encourage and support women to become active members of the PostgreSQL community and foster recognition of their contribution to PostgreSQL development. We firmly believe that by developing a community with a diverse field of contributors, PostgreSQL has an opportunity to truly become the most advanced open source database not only in technological standards, but also in terms of widespread and diverse community involvement. Be a Postgres Women ally by joining and supporting individuals who identify as women."
-        en: "Postgres Women is a non-profit organization created to encourage and support women to become active members of the PostgreSQL community and foster recognition of their contribution to PostgreSQL development. We firmly believe that by developing a community with a diverse field of contributors, PostgreSQL has an opportunity to truly become the most advanced open source database not only in technological standards, but also in terms of widespread and diverse community involvement. Be a Postgres Women ally by joining and supporting individuals who identify as women."
-      link: "https://twitter.com/PostgresWomen"
-      imageUrl: "postgres_women_final.png"
-    -
-      name:
-        it: "Django Girls"
-        en: "Django Girls"
-      description:
-        it: "Django Girls è una community internazionale nata a Berlino nel 2014 impegnata nell’offrire alle donne l’opportunità di inserirsi nel settore IT attraverso l’organizzazione di workshop di alfabetizzazione digitale di una giornata, in cui le ragazze che partecipano imparano facendo. Le ragazze, affiancate da un coach, metteranno  direttamente mano al codice - usando Python e Django - con l’obiettivo finale di creare un loro blog personale su cui potranno lavorare anche una volta terminato il corso. Django Girls oltre ad essere un progetto per la divulgazione tecnologica, è una community nata nel contesto della conferenza EuroPython e che si è poi diffusa a macchia d’olio. I workshop vengono organizzati in tutto il mondo e Django Girls Italia è la community che agisce in Italia. A sostegno del progetto esiste una Fondazione, nata nel 2016 con sede a Londra, che coordina i gruppi locali, fornendo risorse e supporto per l’organizzazione di nuove iniziative ed eventi. In Italia, il debutto è stato nel dicembre 2015 con il workshop Django Girls Roma."
-        en: "Django Girls is an international community born in Berlin in 2014, committed to offering women the opportunity to enter the IT sector through the organization of one-day digital literacy workshops, in which the participating girls learn by doing. , supported by a coach, they will directly implement the code - using Python and Django - with the ultimate goal of creating their own personal blog where they can work even after completing the course Django Girls as well as being a project for technological dissemination , is a community born in the context of the EuroPython conference and that spread like wildfire.The workshops are organized all over the world and Django Girls Italia is the community that acts in Italy.A Foundation exists to support the project, established in 2016 based in London, which coordinates local groups, providing resources and support for the organization of new initiatives and events. alia, the debut was in December 2015 with the Django Girls Rome workshop."
-      link: "https://www.facebook.com/djangogirlsIT/"
-      imageUrl: "logo-bigger.png"
-    -
-      name:
-        it: "Grusp"
-        en: "Grusp"
-      description:
-        it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web. Organizziamo eventi, conferenze ed incontri informali coinvolgendo professionisti italiani ed internazionali. Puntiamo a rendere l'ecosistema del mondo italiano dello sviluppo web migliore sia sotto l'aspetto delle competenze che delle opportunità creando maggiore consapevolezza."
-        en: "Founded in 2003 as an association dedicated only to the world of PHP, GrUSP has become the reference point in Italy for good practices in the world of web development. We organize events, conferences and informal meetings involving Italian and international professionals. We aim to make the ecosystem of the Italian world of web development better, both in terms of skills and opportunities, creating greater awareness."
-      link: "https://www.grusp.org/it/"
-      imageUrl: "grusp-logo.png"
-    -
-      name:
-        it: "Informatici Senza Frontiere"
-        en: "Informatici Senza Frontiere"
-      description:
-        it: "In un mondo che cambia Informatici Senza Frontiere propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di emarginazione e difficoltà e situazioni di emergenza, in Italia e nei Paesi in via di sviluppo. Lavora per colmare il divario digitale e per favorire un processo di crescita, individuale o di gruppo, che porti ciascuno ad appropriarsi consapevolmente delle proprie potenzialità attraverso le conoscenze e le tecnologie informatiche.Si fonda sui valori del rispetto della dignità umana e della solidarietà e fa delle parole inclusione e sviluppo il proprio credo. Nata nel 2005 Informatici Senza Frontiere è una ONLUS che ha oggi 12 sezioni regionali, oltre 300 soci, centinaia di progetti al suo attivo ed un’importante presenza al Vertice Mondiale 2013 ITU dell’ONU come rappresentante a livello europeo di ciò che l’IT può fare nel settore della disabilità." 
-        en: "In a changing world Informatici Senza Frontiere proposes a new use of the most intelligent, sustainable and supportive technology. It offers its time, its skills, experiences and IT passions to carry out non-profit projects, favoring contexts of marginalization and difficulties and emergency situations, in Italy and in developing countries. It works to bridge the digital divide and to foster a process of growth, individual or group, which leads each to consciously appropriate their potential through knowledge and information technology. It is based on the values ​​of respect for human dignity and solidarity and makes of the words inclusion and development of one's belief. Born in 2005, Informatici Senza Frontiere is an NGO that has 12 regional sections today, over 300 members, hundreds of projects to its credit and an important presence at the 2013 ITU World Summit as a European representative of what IT can do in the disability sector." 
-      link: "https://www.informaticisenzafrontiere.org" 
-      imageUrl: "isf.png"
-    -
-      name:
-        it: "PyConIT"
-        en: "PyConIT"
-      description:
-        it: "PyConIT è l'evento ufficiale italiano su Python, al giorno d'oggi è uno degli eventi pythonic più importanti in tutta Europa. Più di 700 persone si radunano da tutto il mondo per partecipare, imparare, programmare, parlare, sostenere e incontrare altri pitonisti a Firenze. La nostra attenzione per la qualità di ogni aspetto di PyCon IT si traduce in un meraviglioso incontro per crescere insieme. Quest'anno, PyCon Italia è alla sua decima edizione e cercheremo di renderlo un'esperienza indimenticabile e ancora più grande per tutti"
-        en: "PyConIT is the official italian event about Python, nowadays it's one of the most important pythonic events in all Europe. More than 700 people gather from all over the world to attend, learn, code, speak, support and meet other fellow pythonistas in Florence. Our care for the quality of every aspect of PyCon IT results in a wonderful gathering for growing together. This year, PyCon Italia is at its 10th edition and we’ll try to make it an unforgettable and even more great experience for everyone"
-      link: "https://www.pycon.it/it/" 
-      imageUrl: "PyconX.png"
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Patrocinato da"
   elements:
     -
       name:
-        it: "Città Metropolitana di Bologna"
-        en: "Città Metropolitana di Bologna"
+        it: ""
+        en: ""
       description:
         it: ""
         en: ""
-      link: "https://www.cittametropolitana.bo.it/portale/"
-      imageUrl: "bologna.jpg"
-    -
-      name:
-        it: "Comune di Zola Pedrosa"
-        en: "Comune di Zola Pedrosa"
-      description:
-        it: ""
-        en: ""
-      link: "http://www.comune.zolapredosa.bo.it/"
-      imageUrl: "zola.png"
-    -
-      name:
-        it: "Regione Emilia Romagna"
-        en: "Regione Emilia Romagna"
-      description:
-        it: ""
-        en: ""
-      link: "https://www.regione.emilia-romagna.it/"
-      imageUrl: "emilia-romagna.jpg"
-    -
-      name:
-        it: "ASTER - innovazione attiva"
-        en: "ASTER - innovazione attiva"
-      description:
-        it: "ASTER è la società consortile dell'Emilia-Romagna per l'innovazione e il trasferimento tecnologico al servizio delle imprese, delle università e del territorio. I suoi soci sono la Regione Emilia-Romagna, le Università, gli Enti di Ricerca CNR, ENEA, INFN operanti in regione e il sistema camerale. Promuove la ricerca industriale come motore principale di sviluppo economico sostenibile, in armonia con la crescita e il benessere sociale e collabora con le associazioni imprenditoriali per lo sviluppo di strategie e azioni congiunte tra ricerca e impresa. Da sempre laboratorio di innovazione a livello nazionale e internazionale, ASTER lavora per fare dell'Emilia-Romagna una regione dinamica, inclusiva e sostenibile."
-        en: "ASTER is the Consortium for innovation and technology transfer of Emilia-Romagna. Its partners are the Emilia-Romagna Regional Government, the six Universities and the National Research Centres located in the region (the National Research Council-CNR, the Italian National Agency for New Technologies, Energy and Sustainable Economic Development-ENEA, the National Institute for Nuclear Physics-INFN), the Regional Union of Chambers of Commerce, working in collaboration with regional Business Associations and Innovation Centres. ASTER works in collaboration with enterprises, universities, research centres and institutions for the development of the innovation ecosystem of the territory."
-      link: "https://www.aster.it/"
-      imageUrl: "aster.png"
+      link: ""
+      imageUrl: ""

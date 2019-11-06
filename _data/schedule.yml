@@ -1,14 +1,14 @@
 -
-  date: "2019-05-17"
+  date: "2020-06-__"
   dateReadable:
-    it: "17 maggio 2019"
-    en: "May 17th, 2019"
+    it: "__ giugno 2020"
+    en: "June __th, 2020"
   message:
     it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
     en: "The schedule is not yet definitive, there may be some variations"
   tracks:
-    - {title: "Sala Diaz", color: "#90be4e"}
-    - {title: "Sala Cortez e Marco Polo", color: "#03a9f4"}
+    - {title: "Sala _____", color: "#90be4e"}
+    - {title: "Sala _____", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "08:30",
