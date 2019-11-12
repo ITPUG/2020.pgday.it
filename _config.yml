@@ -23,7 +23,7 @@ description:
 baseurl: ""
 url: "http://2020.pgday.it"
 permalink: "/it/blog/:title"
-googleAnalyticsTrackingId: "UA-99990720-4"
+googleAnalyticsTrackingId: "UA-99990720-5"
 googleAnalyticsSiteUrl: "auto"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
@@ -52,17 +52,17 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
-c4sponsorsUrl: "/assets/PartnerIT_2019.pdf"
+c4sponsorsUrl: "/assets/PartnerIT_2020.pdf"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {permalink: "/workshop/", text: "Workshop", lang: "it"}
 # - {permalink: "/workshop/", text: "Workshops", lang: "en"}
  - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
@@ -80,13 +80,13 @@ navigationLinks:
 # - {permalink: "/team/", text: "Team"}
  - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
-# - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
 rightNavigationButtons:
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
 # - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
 # - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
 
@@ -105,16 +105,16 @@ typeoutFallback:
   it: "Bergamo, 11 e 12 giugno 2020"
   en: "Bergamo, June 11th and 12th, 2020"
 heroButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
  - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
- - {link: "https://2020pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://2020pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
+ - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://pgdayit2020.eventbrite.it", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle:
@@ -233,7 +233,7 @@ ticketsOffers:
     en: "Early ticket"
   price: "57,00"
   priceCurrency: "€"
-  buyButtonLink: "https://2020pgdayit.eventbee.com"
+  buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -249,7 +249,7 @@ ticketsOffers:
     en: "Ordinary"
   price: "69,00"
   priceCurrency: "€"
-  buyButtonLink: "https://2020pgdayit.eventbee.com"
+  buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -266,7 +266,7 @@ ticketsOffers:
   price: "99,00"
   priceCurrency: "€"
   featured: true
-  buyButtonLink: "https://2020pgdayit.eventbee.com"
+  buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -282,7 +282,7 @@ ticketsOffers:
     en: "Student"
   price: "15,00"
   priceCurrency: "€"
-  buyButtonLink: "https://2019pgdayit.eventbee.com"
+  buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
@@ -379,17 +379,20 @@ directionDetailsCards:
 # - {lang: "it", title: "Arrivi in aereo all'Aeroporto Guglielmo Marconi di Bologna? In treno alla stazione di Bologna Centrale?", information: "Questa è la nostra soluzione: PG_shuttle! Fornendo a noi i dati del tuo arrivo, organizzeremo per te il pickup che ti porterà direttamente presso la sede del PGDay.IT 2020. Basta che tu compili il form che abbiamo predisposto e troverai il tuo pickup ad attenderti al tuo arrivo. PG_shuttle è un servizio gratuito. Inserisci le informazioni necessarie nel form che trovi cliccando su 'PG_shuttle' nella barra del menù principale. Se invece preferisci essere autonomo, sotto troverai le indicazioni che ti occorrono."}
 # - {lang: "en", title: "Are you arriving by plane at Guglielmo Marconi Airport or by train at Bologna Centrale station?", information: "This is our solution: PG_shuttle! By providing us your arrival details, we will arrange for you the pickup that will take you directly to the venue of PGDay.IT 2020. Just fill the form that we have prepared and you will find your pickup waiting for you when you arrive. PG_shuttle is a free service. Please, enter the necessary information in the form that you find by clicking on 'PG_shuttle' in the main menu bar. If you prefer to be independent, below you will find the instructions you need."}
 
- - {lang: "it", title: "IN AUTO:", information: "___________________________"}
- - {lang: "en", title: "BY CAR:", information: "___________________________"}
+ - {lang: "it", title: "IN AUTO:", information: "All’uscita di Bergamo, seguire le indicazioni “centro città”-“stazione”.
+Una volta arrivati in centro, al semaforo di Via Bonomelli, svoltare a sinistra in via Papa Giovanni XXIII il Centro si trova a sinistra prima del successivo incrocio con Via Paleocapa.
+Il parcheggio a pagamento più vicino si trova in Via Paleocapa (svoltare a sinistra)."}
+ - {lang: "en", title: "BY CAR:", information: "From the Bergamo motorway exit, follow the signs ‘centro città’-‘stazione’.
+Once in the centre, at the traffic lights in Via Bonomelli, turn left into via Papa Giovanni XXIII. You will see the Centro on the left before the next crossroads with Via Paleocapa. The nearest paid parking is in Via Paleocapa (turn left)"}
 
- - {lang: "it", title: "IN TRENO:", information: "___________________________"}
- - {lang: "en", title: "BY TRAIN:", information: "___________________________"}
+ - {lang: "it", title: "IN TRENO:", information: "Il Centro Congressi di Bergamo è situato a 150 metri alla Stazione Ferroviaria."}
+ - {lang: "en", title: "BY TRAIN:", information: "Railway Station is 1 minute far from the Congress Center (150 meters)."}
 
- - {lang: "it", title: "IN AEREO:", information: "___________________________"}
- - {lang: "en", title: "BY PLANE:", information: "___________________________"}
+ - {lang: "it", title: "IN AEREO:", information: "Il Centro Congressi di Bergamo è situato a 10 minuti di taxi da Orio al serio, 40 minuti da Linate e 1,5 h da Malpensa."}
+ - {lang: "en", title: "BY PLANE:", information: "Bergamo Congress Center is 10 minutes far from Orio al Serio Airport, 40 minutes from Linate Airport and 120 minuntes from Malpensa."}
 
- - {lang: "it", title: "CERCHI UN HOTEL?", information: "___________________________"}
- - {lang: "en", title: "ARE YOU LOOKING FOR AN HOTEL?", information: "___________________________"}
+ - {lang: "it", title: "CERCHI UN HOTEL?", information: "In prossimità del Centro Congressi Giovanni XXIII, molti gli hotel tra cui scegliere, a partire da una distanza di 58mt in poi. Pernottare non sarà certo un problema!"}
+ - {lang: "en", title: "ARE YOU LOOKING FOR AN HOTEL?", information: "Near Centro Congressi Giovanni XXIII, there are many hotels to choose, starting from a distance of 58mt onwards. Overnight accommodation will certainly not be a problem!"}
 
 # Pgbeer
 pgbeerDetailsImage: "pg_beer_in.jpg"
