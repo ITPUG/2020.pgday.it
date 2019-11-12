@@ -224,14 +224,14 @@ ticketsTitle:
     it: "Prezzo biglietti"
     en: "Ticket prices"
 ticketsInfo:
-    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 17 maggio 2019. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
-    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of May 17th, 2019. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
+    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 12 giugno 2020. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
+    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of June 12th, 2020. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
 ticketsOffers:
  -
   name:
-    it: "Early ticket"
-    en: "Early ticket"
-  price: "57,00"
+    it: "Early ticket - IVA inclusa"
+    en: "Early ticket - VAT included"
+  price: "59,00"
   priceCurrency: "€"
   buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
@@ -242,12 +242,12 @@ ticketsOffers:
     en: ["Early ticket - PGDay.IT 2020", "June 12th, 2020", "Bergamo"]
   validFrom: "2019-11-18T10:00"
   validThrough: "2019-02-28T23:59"
-  disabled: true
+  disabled: false
  -
   name:
-    it: "Ordinario"
-    en: "Ordinary"
-  price: "69,00"
+    it: "Ordinario - IVA inclusa"
+    en: "Ordinary - VAT included"
+  price: "72,00"
   priceCurrency: "€"
   buyButtonLink: "https://pgdayit2020.eventbrite.it"
   buyButtonText:
@@ -258,11 +258,11 @@ ticketsOffers:
     en: ["Ordinary - PGDay.IT 2020", "June 12th, 2020", "Bergamo"]
   validFrom: "2020-03-01T00:00"
   validThrough: "2020-05-15T23:59"
-  disabled: false
+  disabled: true
  -
   name:
-    it: "Last chance"
-    en: "Last chance"
+    it: "Last chance - IVA inclusa"
+    en: "Last chance - VAT included"
   price: "99,00"
   priceCurrency: "€"
   featured: true
@@ -278,8 +278,8 @@ ticketsOffers:
   disabled: true
  -
   name:
-    it: "Studente"
-    en: "Student"
+    it: "Studente - IVA inclusa"
+    en: "Student - VAT included"
   price: "15,00"
   priceCurrency: "€"
   buyButtonLink: "https://pgdayit2020.eventbrite.it"
