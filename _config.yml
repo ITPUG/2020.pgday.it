@@ -99,7 +99,7 @@ eventDate:
   it: "PGDay.IT 2020: Workshop 11 giugno e Conferenza 12 giugno"
   en: "PGDay.IT 2020: Workshop June 11th and Conference June 12th"
 typeoutTextValues:
-  it: '"Conferenza 12 giugno" "Workshop 11 giugno", "PG_beer 11 giugno", "Bergamo, Italy"'
+  it: '"Conferenza 12 giugno", "Workshop 11 giugno", "PG_beer 11 giugno", "Bergamo, Italy"'
   en: '"Conference June 12th", "Workshop June 11th", "PG_beer June 11th", "Bergamo, Italy"'
 typeoutFallback:
   it: "Bergamo, 11 e 12 giugno 2020"
