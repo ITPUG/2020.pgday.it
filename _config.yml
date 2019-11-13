@@ -241,7 +241,7 @@ ticketsOffers:
     it: ["Early ticket - PGDay.IT 2020", "12 giugno 2020", "Bergamo"]
     en: ["Early ticket - PGDay.IT 2020", "June 12th, 2020", "Bergamo"]
   validFrom: "2019-11-18T10:00"
-  validThrough: "2019-02-28T23:59"
+  validThrough: "2020-02-28T23:59"
   disabled: false
  -
   name:
