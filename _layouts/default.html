@@ -48,11 +48,11 @@ layout: compress
     {% if page.ref == 'index' or page.ref == 'pgbeer' or page.ref == 'workshop' or page.ref == 'lpi' %}
     <script>
         if ($(window).width() > 767) {
-            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDbarslr6cpeIvuTDBzmGJlDtXrcimfNKA"><\/script>')
+            document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAS362Hm9ffqMx3zqbaVbV7o1b348CxkRE"><\/script>')
         }
     </script>
     {% elsif page.ref == 'logistics' %}
-        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDbarslr6cpeIvuTDBzmGJlDtXrcimfNKA&libraries=places,geometry"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyAS362Hm9ffqMx3zqbaVbV7o1b348CxkRE&libraries=places,geometry"></script>
         <script type="text/javascript">
             var autoDirectionEnabled = {% if site.logisticsMapAutoDirections %} true {% else %} false {% endif %};
         </script>
