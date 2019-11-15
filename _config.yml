@@ -168,9 +168,9 @@ eventAddressCountry: "Italy"
 eventStartTime: "2020-06-11T9:00"
 eventDoorTime: "08:15"
 eventEndTime: "2020-06-12T18:00"
-eventPlaceCoordinates: "45.692016,9.672635"
-mapCenterCoordinates: "45.692016,9.672635"
-mapMobileCenterCoordinates: "45.692016,9.672635"
+eventPlaceCoordinates: "45.691971,9.672767"
+mapCenterCoordinates: "45.691971,9.672767"
+mapMobileCenterCoordinates: "45.691971,9.672767"
 
 # Venue Block
 venueBlockTitle:
@@ -366,8 +366,8 @@ findWayFindFlight:
 viewOnMap:
   it: "Vedi su Google Maps"
   en: "View on Google Maps"
-logisticsMapCenterCoordinates: "45.692016,9.672635"
-logisticsMapMobileCenterCoordinates: "45.692016,9.672635"
+logisticsMapCenterCoordinates: "45.691971,9.672767"
+logisticsMapMobileCenterCoordinates: "45.691971,9.672767"
 logisticsMapAutoDirections: false
 
 ## Logistics Direction Details Block
