@@ -366,8 +366,8 @@ findWayFindFlight:
 viewOnMap:
   it: "Vedi su Google Maps"
   en: "View on Google Maps"
-logisticsMapCenterCoordinates: "45.6919866, 9.6704564"
-logisticsMapMobileCenterCoordinates: "45.6919866, 9.6704564"
+logisticsMapCenterCoordinates: "45.6919458, 9.6705513"
+logisticsMapMobileCenterCoordinates: "45.6919458, 9.6705513"
 logisticsMapAutoDirections: false
 
 ## Logistics Direction Details Block
