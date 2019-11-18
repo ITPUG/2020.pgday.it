@@ -31,9 +31,9 @@ Focus points:
 * Attendees: we are expecting so many… a lot of people, actually!
 * Topics: many hours dedicated entirely to PostgreSQL, lots of talks with high technical content, and the community experience that cannot be missed.
 * When: Conference June 12th, 2020 - Workshop Day June 11th, 2020.
-* Speakers: the [Call for Papers is open](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform) and we expect many interesting proposals. The Keynote Speaker will be a fantastic surprise for every one.
-* Workshop: the [Call for Workshop is open](https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform). Four “hands-on” hours dedicate to specific topics.
-* Location: [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) is an excellent location, in heart of the city of Bergamo.
+* Speakers: the [Call for Papers is open](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform) and we expect many interesting proposals. The Keynote Speaker will be a fantastic surprise for everyone.
+* Workshop: the [Call for Workshop is open](https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform). Four “hands-on” hours dedicated to specific topics.
+* Location: [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) is an excellent location, in  the heart of the city of Bergamo.
 
 <h6>Are you packing your bags already?</h6>
 
