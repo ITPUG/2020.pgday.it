@@ -11,31 +11,31 @@ ref: back
 
 <h6>PGDay.IT 2020 opens the doors.</h6>
 
-We are full of enthusiasm because the [last edition](https://2018.pgday.it/en/) has been fantastic!
-More than 150 enthusiastic attendees, interesting talks, great speakers, fantastic partners, and a beautiful location. We have also received very positive feedback from the participants!
+We are full of enthusiasm because the [last edition](https://2020.pgday.it/en/) has been fantastic!
+More than 160 enthusiastic attendees, interesting talks, great speakers, fantastic partners, and a beautiful location. We have also received very positive feedback from the participants!
 
 We couldn't have asked for a better result.
-Thanks to everybody: attendees, speakers, staff, and partners. We hope to meet you again during this new edition of [PGDay.IT](https://2019.pgday.it/en/).
+Thanks to everybody: attendees, speakers, staff, and partners. We hope to meet you again during this new edition of [PGDay.IT](https://2020.pgday.it/en/).
 
-[PGDay.IT 2020](https://2019.pgday.it/en/) will be held in [Bologna](https://www.bolognawelcome.com/en/) on May 17th, 2019.
+[PGDay.IT 2020](https://2020.pgday.it/en/) will be held in [Bergamo](https://www.visitbergamo.net/it/news/notizia/161/) on June 11th and 12th, 2020.
 
-The chosen location is the [Admiral Park Hotel](https://2019.pgday.it/en/logistics/). The hotel is located in a beautiful and strategic position, surrounded by a vast park, just a few minutes from the [Guglielmo Marconi Airport (BLQ)](https://www.bologna-airport.it/en/travellers.aspx?idC=61676&LN=en-US), and from the [Bologna central train station](https://www.bolognacentrale.it/en/) and, also, from the [Bologna Fiere](http://www.bolognafiere.it/en/home) exhibition centre.
+The chosen location is [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/). The Giovanni XXIII Congress Center is located in the heart of the city of Bergamo and enjoys a privileged location thanks to its proximity to [Bergamo-Orio al Serio](https://www.milanbergamoairport.it/en/) (5km) and the [railway station](https://www.thetrainline.com/en/stations/bergamo) (300 meters); a few steps from the location you can find 4-star hotels, the shopping streets, the [Venetian Walls of the Upper Town](https://www.visitbergamo.net/en/object-details/2979-mura-veneziane/) recognized as a UNESCO heritage site, a parking area dedicated to speakers and a large parking lot with special rates for participants.
 
 How is the conference structured?
 
-**May 17th** will be the day for the Talks and Presentations. The keynote, eight talks in Italian, eight talks in English, and,  at the end of the day, we will have the lightning talks, as long as there are enough propositions. Anything else? We are considering having a closing aperitivo, what do you think?
+**June 12th** will be held the Conference with keynote, talks in Italian, talks in English, and the lightning talks.
 
-**May 16th** is reserved for the Workshop Day 2019. Four hours dedicated to specific topics chosen among the proposals that we will receive. The 2018 edition has received so many inscriptions and praises from those who have participated.
+**June 11th** will be held the Workshop Day. Four hours dedicated to specific topics chosen among the proposals that we will receive. The 2018 and 2019 editions have received so many inscriptions and praises from those who have participated.
 
 Focus points:
-* Attendees: we are expecting so many… a lot of people, actually! Our goal? 250!!!
-* Topics: More than 16 hours dedicated entirely to PostgreSQL, lots of talks with high technical content, and the community experience that cannot be missed.
-* When: PGDay.IT May 17th, 2019 - Workshop Day May 16th, 2019.
-* Speakers: The [Call for Papers is open](https://2019.pgday.it/en/blog/cfp) and we expect many interesting proposals. One might be yours! We are also working to ensure the presence of “Rockstars” of the PostgreSQL Ecosystem and supporters of the Open Source world.
-* Workshop: The [Call for Workshop is open](https://2019.pgday.it/en/blog/cfw). Four “hands-on” hours dedicate to specific topics.
-* Location: [Admiral Park Hotel](https://2019.pgday.it/en/logistics/) is an excellent location because it will allow us to organize everything with comfort in a very interesting and beautiful place!
+* Attendees: we are expecting so many… a lot of people, actually!
+* Topics: many hours dedicated entirely to PostgreSQL, lots of talks with high technical content, and the community experience that cannot be missed.
+* When: Conference June 12th, 2020 - Workshop Day June 11th, 2020.
+* Speakers: The [Call for Papers is open](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform) and we expect many interesting proposals. The Keynote Speaker will be a fantastic surprise for every one.
+* Workshop: The [Call for Workshop is open](https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform). Four “hands-on” hours dedicate to specific topics.
+* Location: [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) is an excellent location, in heart of the city of Bergamo.
 
 <h6>Are you packing your bags already?</h6>
 
 More details about the selected speakers and the schedule will be published on the PGDay.IT 2020 blog and shared throughout our social channels.
-Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) so you will not miss any update about the [PGDay.IT 2020](https://2019.pgday.it/en/).
+Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) so you will not miss any update about the [PGDay.IT 2020](https://2020.pgday.it/en/).

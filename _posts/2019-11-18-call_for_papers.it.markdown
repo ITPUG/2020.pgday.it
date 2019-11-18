@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Paper è APERTA!"
-date:   2019-11-18 04:00:00
+date:   2019-12-10 04:00:00
 isStaticPost: false
 permalink: /it/blog/cfp
 lang: it
@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfp
 ---
 
-###### [Nuova deadline](http://2019.pgday.it/it/blog/cfp_postponed): 3 Febbraio 2019
+###### [Nuova deadline](http://2020.pgday.it/it/blog/cfp_postponed): 3 Febbraio 2019
 
 [PGDay.IT 2020](https://2019.pgday.it/it/) si terrà a  [Bologna](https://2019.pgday.it/it/logistics/) il 17 maggio 2019. Se vuoi essere parte di questa fantastica manifestazione come speaker… bussa e ti sarà aperto.
 
