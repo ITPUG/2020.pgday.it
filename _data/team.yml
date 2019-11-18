@@ -6,7 +6,6 @@
   thumbnailUrl: bam965.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
     - {name: "twitter", link: "https://twitter.com/bam965"}
     - {name: "github", link: "https://github.com/bam965"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
@@ -18,7 +17,6 @@
   thumbnailUrl: patri.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
     - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 -
@@ -29,8 +27,6 @@
   thumbnailUrl: marco.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
     - {name: "twitter", link: "https://twitter.com/mnencia"}
     - {name: "github", link: "https://github.com/mnencia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
@@ -42,7 +38,6 @@
   thumbnailUrl: andrej.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -53,7 +48,6 @@
   thumbnailUrl: denis.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
 -
@@ -64,7 +58,6 @@
   thumbnailUrl: emanuele_zamprogno.jpg
   exTeam: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -74,7 +67,6 @@
   thumbnailUrl: gabriele.jpg
   subTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/107466780372045620897"}
     - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
     - {name: "github", link: "https://github.com/gbartolini"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
@@ -95,7 +87,6 @@
   thumbnailUrl: torello.jpg
   subTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
     - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
     - {name: "github", link: "https://github.com/mk8"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
@@ -106,7 +97,6 @@
   thumbnailUrl: emanuele.jpg
   subTeam: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
 -
   id: 0
@@ -116,8 +106,6 @@
   thumbnailUrl: marco.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
     - {name: "twitter", link: "https://twitter.com/mnencia"}
     - {name: "github", link: "https://github.com/mnencia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
@@ -129,7 +117,6 @@
   thumbnailUrl: andrejVP.jpg
   team: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -140,7 +127,6 @@
   thumbnailUrl: patri.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
     - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 -
@@ -151,7 +137,6 @@
   thumbnailUrl: bam965.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
     - {name: "twitter", link: "https://twitter.com/bam965"}
     - {name: "github", link: "https://github.com/bam965"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
@@ -174,8 +159,6 @@
 #  thumbnailUrl: marco.jpg
 #  exTeam: true
 #  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-#    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
 #    - {name: "twitter", link: "https://twitter.com/mnencia"}
 #    - {name: "github", link: "https://github.com/mnencia"}
 #    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
@@ -187,7 +170,6 @@
 #  thumbnailUrl: patri.jpg
 #  exTeam: true
 #  social:
-#    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
 #    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
 #    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 #-
@@ -198,7 +180,6 @@
 #  thumbnailUrl: bam965.jpg
 #  exTeam: true
 #  social:
-#    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
 #    - {name: "twitter", link: "https://twitter.com/bam965"}
 #    - {name: "github", link: "https://github.com/bam965"}
 #    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}

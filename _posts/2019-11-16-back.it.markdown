@@ -40,4 +40,4 @@ Focus point:
 <h6>Come si può non esserci?</h6>
 
 Maggiori dettagli circa gli speaker selezionati ed il programma saranno pubblicati e comunicati attraverso il blog dedicato al PGDay.IT 2020 e condivisi attraverso i nostri canali ufficiali.
-Seguiteci su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) in modo da non perdere nessun aggiornamento sul [PGDay.IT 2020](https://2020.pgday.it/it/).
+Seguiteci su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Linkedin](https://www.linkedin.com/company/itpug) in modo da non perdere nessun aggiornamento sul [PGDay.IT 2020](https://2020.pgday.it/it/).

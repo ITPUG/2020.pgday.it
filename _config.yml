@@ -299,7 +299,6 @@ ticketsOffers:
 # TODO: sistemare permalink o cancellarlo
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/114060631874544975126", icon: "google-plus"}
  - {link: "https://twitter.com/PGDayIT", icon: "twitter"}
  - {link: "https://www.facebook.com/ITPUG/", icon: "facebook"}
  - {link: "https://www.linkedin.com/company/itpug", icon: "linkedin"}

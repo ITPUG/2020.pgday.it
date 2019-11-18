@@ -6,7 +6,6 @@
   thumbnailUrl: patri.jpg
   staff: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
     - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 -
@@ -17,7 +16,6 @@
   thumbnailUrl: bam965.jpg
   staff: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
     - {name: "twitter", link: "https://twitter.com/bam965"}
     - {name: "github", link: "https://github.com/bam965"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
@@ -29,7 +27,6 @@
   thumbnailUrl: andrej.png
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -40,7 +37,6 @@
   thumbnailUrl: torello.jpg
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -51,7 +47,6 @@
   thumbnailUrl: gianni_ciolli.jpg
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
     - {name: "linkedin", link: ""}
 -
@@ -62,7 +57,6 @@
   thumbnailUrl: denis_gasparin.jpg
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
 -
@@ -73,7 +67,6 @@
   thumbnailUrl: leonardo_cecchi.jpg
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/leonardo_cecchi/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
 -
@@ -84,7 +77,6 @@
   thumbnailUrl: tamara.jpg
   staff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295"}
 -
@@ -126,7 +118,6 @@
   thumbnailUrl: emanuele_zamprogno.jpg
   exStaff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: ""}
 -
@@ -137,6 +128,5 @@
   thumbnailUrl: domenico_commisso.jpeg
   exStaff: true
   social:
-    - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
     - {name: "linkedin", link: "https://www.linkedin.com/in/domenico-commisso-8a6011122/"}
