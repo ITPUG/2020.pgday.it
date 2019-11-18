@@ -33,8 +33,8 @@ Focus point:
 * Partecipanti: ne aspettiamo tanti ... davvero tanti!
 * Topic: tante ore dedicate interamente a PostgreSQL, molti talk con un alto contenuto tecnico e momenti social da non perdere.
 * Quando: Conferenza 12 giugno 2020 - Workshop Day 11 giugno 2020.
-* Speaker: La [Call for Paper è aperta](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform), e ci aspettiamo molte proposte interessanti. Il Keynote Speaker sarà una fantastica sorpresa per tutti i partecipanti.
-* Workshop: La [Call for Workshop è aperta](https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform). Quattro ore pratiche dedicate a topic specifici.
+* Speaker: la [Call for Paper è aperta](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform), e ci aspettiamo molte proposte interessanti. Il Keynote Speaker sarà una fantastica sorpresa per tutti i partecipanti.
+* Workshop: la [Call for Workshop è aperta](https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform). Quattro ore pratiche dedicate a topic specifici.
 * Location: [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) è una location ottimale nel cuore di Bergamo.
 
 <h6>Come si può non esserci?</h6>
