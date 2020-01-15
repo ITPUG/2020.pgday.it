@@ -20,47 +20,6 @@
     - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
     - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 -
-  id: 2
-  name: "Marco"
-  surname: "Nenciarini"
-  title: "Presidente Associazione ITPUG"
-  thumbnailUrl: marco.jpg
-  exTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/mnencia"}
-    - {name: "github", link: "https://github.com/mnencia"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
--
-  id: 3
-  name: "Andrej"
-  surname: "Sossi"
-  title: "Socio ITPUG"
-  thumbnailUrl: andrej.jpg
-  exTeam: true
-  social:
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
--
-  id: 4
-  name: "Denis"
-  surname: "Gasparin"
-  title: "Socio ITPUG"
-  thumbnailUrl: denis.jpg
-  exTeam: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/rtshome"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
--
-  id: 0
-  name: "Emanuele"
-  surname: "Zamprogno"
-  title: "Socio ITPUG"
-  thumbnailUrl: emanuele_zamprogno.jpg
-  exTeam: true
-  social:
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
--
   id: 0
   name: "Gabriele"
   surname: "Bartolini"
@@ -114,7 +73,7 @@
   name: "Andrej"
   surname: "Sossi"
   title: "Vice-Presidente Associazione ITPUG"
-  thumbnailUrl: andrejVP.jpg
+  thumbnailUrl: andrej.jpg
   team: true
   social:
     - {name: "twitter", link: ""}
@@ -145,7 +104,7 @@
   name: "FLorin"
   surname: "Irion"
   title: "Consigliere Associazione ITPUG"
-  thumbnailUrl: florinC.jpeg
+  thumbnailUrl: florin.jpg
   team: true
   social:
     - {name: "twitter", link: ""}
