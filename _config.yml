@@ -65,8 +65,8 @@ navigationLinks:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {permalink: "/workshop/", text: "Workshop", lang: "it"}
 # - {permalink: "/workshop/", text: "Workshops", lang: "en"}
-# - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
@@ -111,8 +111,8 @@ heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
-# - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
  - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://pgdayit2020.eventbrite.it", text: "Get your ticket", lang: "en"}
 
