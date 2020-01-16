@@ -9,7 +9,7 @@ image: CFP.jpg
 ref: cfp
 ---
 
-[PGDay.IT 2020](https://2020.pgday.it/en/) will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on June 11th and 12th,. If you want to be part of this event as a speaker, please, knock and the door will be opened to you!
+[PGDay.IT 2020](https://2020.pgday.it/en/) will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on June 11th and 12th. If you want to be part of this event as a speaker, please, knock and the door will be opened for you!
 
 ###### Who should apply as a speaker for PGDay.IT 2020?
 
@@ -43,41 +43,41 @@ The Conference will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on
 
 ###### PostgreSQL
 
-* PostgreSQL
-* PostGIS
-* Migration from others database
+* PostgreSQL;
+* PostGIS;
+* Migration from other databases.
 
 ###### OS Languages
 
-* Programming Languages
-* Continuous integration
-* Integration with others software
+* Programming Languages;
+* Continuous integration;
+* Integration with other software.
 
 ###### Environments
 
-* Hardware and Benchmarking
-* Linux Containers
-* Cloud
-* Operating Systems
+* Hardware and Benchmarking;
+* Linux Containers;
+* Cloud;
+* Operating Systems.
 
 ###### Instruments
 
-* Monitoring Systems
-* Virtualization Tools
-* Configuration Managers
+* Monitoring Systems;
+* Virtualization Tools;
+* Configuration Managers.
 
 ###### Not just code
 
-* Case Studies
-* Devops
-* Open Source business model
-* Researching and teaching with PostgreSQL
+* Case Studies;
+* DevOps;
+* Open Source business model;
+* Researching and teaching with PostgreSQL.
 
 ###### Please submit your talk proposal by the [appropriate form](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform).
 
 ##### Workshop Day 2020
 
-We encourage and invite anyone interested to submit a proposal for organizing a workshop. Four practical hours to try, test specific technical topics.
+We encourage and invite anyone interested to submit a proposal for organizing a workshop. Four hands-on hours to try, test specific technical topics.
 
 Workshops will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on June 11th, 2020.
 
@@ -85,7 +85,7 @@ Workshops will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on June
 
 * High availability;
 * Disaster Recovery;
-* Performance Tuning and ottimization;
+* Performance Tuning and optimization;
 * troubleshooting;
 * Writing PostgreSQL extensions;
 * Best practices of database design (PostgreSQL);
@@ -101,7 +101,7 @@ Workshops will be held in [Bergamo](https://2020.pgday.it/en/logistics/) on June
 
 __Important:__ There is no guarantee that your proposal will be included in the event schedule.
 
-The Technical Committee will select the most interesting proposals received and will inform the candidates no later than February 22th, 2020 .
+The Technical Committee will select the most exciting proposals received and will inform the candidates no later than February 22th, 2020.
 
 __Questions?__
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)

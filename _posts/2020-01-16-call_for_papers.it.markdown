@@ -45,35 +45,35 @@ La Conferenza si terrà a [Bergamo](https://2020.pgday.it/in/logistics/), nella 
 
 ###### PostgreSQL
 
-* PostgreSQL
-* PostGIS
-* Migrazioni da altri database
+* PostgreSQL;
+* PostGIS;
+* Migrazioni da altri database.
 
 ###### Linguaggi OS
 
-* Linguaggi di programmazione
-* Continuous integration
-* Integrazioni con altri software
+* Linguaggi di programmazione;
+* Continuous integration;
+* Integrazioni con altri software.
 
 ###### Ambienti
 
-* Hardware e Benchmarking
-* Linux Containers
-* Cloud
-* Sistemi operativi
+* Hardware e Benchmarking;
+* Linux Containers;
+* Cloud;
+* Sistemi operativi.
 
 ###### Strumenti
 
-* Sistemi di monitoraggio
-* Virtualization tool
-* Configuration managers
+* Sistemi di monitoraggio;
+* Virtualization tool;
+* Configuration managers.
 
 ###### Non solo codice
 
-* Casi di studio
-* Devops
-* Modello di business open source
-* Ricerca e insegnamento con PostgreSQL
+* Casi di studio;
+* DevOps;
+* Modello di business open source;
+* Ricerca e insegnamento con PostgreSQL.
 
 
 ###### Per candidarti come speaker, inviaci la tua proposta di talk compilando [l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform).
