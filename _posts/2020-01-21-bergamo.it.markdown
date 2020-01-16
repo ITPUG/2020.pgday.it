@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Giusto dietro l’angolo"
+date:   2020-01-25 04:00:00
+isStaticPost: false
+permalink: /it/blog/cfp
+lang: it
+ref: cfp
+image: angolo.jpg
+redirect-from:
+ - /blog/bergamo
+---
+
+Come ormai sappiamo, il [PGDay.IT 2020](https://2020.pgday.it/it/) si terrà a  [Bergamo](https://2020.pgday.it/it/logistics/) nei giorni 11 e 12 giugno 2020.
+
+###### Perchè Bergamo?
+
+Dopo alcune location non priorio a portata di mano, cercavamo un luogo che desse la sensazione di essere _"giusto dietro l'angolo"_ ma con peculiarità che ci attraessero.
+
+A cosa dare la priorità? Molto difficile!
+
+<img src="/img/posts/Bergamo-posizione.png" align="right" Hspace="15" Vspace="0" Border="0"> Quindi siamo partiti con una lista dei desideri:
+1. una posizione strategica, quasi centrale;
+2. un aeroporto nelle vicinanze, con collegamenti in tutta Europa;
+3. una bella sede per il nostro evento;
+4. ben collega con tutta Italia;
+5. diverse tipologie di strutture alberghiere;
+6. locali particolari per una fantastica PG_beer;
+7. turisticamente attrattiva;
+8. con una particolarità che la rendesse facilmente riconoscibile;
+9. il cibo .... e su questo in Italia ovunque saremmo cascati bene!
+
+
+<img src="/img/posts/OrioAlSerio-Destinazioni.png" align="left" Hspace="15" Vspace="0" Border="0">
+
+__Da qui: Bergamo!__
+
+Senza temere smentite, Bergamo risulta abbastanza centrale rispetto al Nord Italia.
+
+Certamente vanta un aeroporto di tutto rispetto, [Orio al Serio](https://www.milanbergamoairport.it/it/), che collega l'Italia con tutta Europa e non solo.
+
+Di puntini rossi ce ne sono davvero tanti!
+
+E la cosa ancora più interessante è che si trova a circa 5km dalla sede scelta per il PGDay.IT 2020!
+
+Ancora più comodo?
+
+<img src="/img/posts/location.png" align="right" Hspace="15" Vspace="0" Border="0">
+
+L'unica nota che può essere fatta alla sede è che non è possibile pernottare nella stessa location.
+
+Infatti, il [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) non è un hotel, ma un centro cogngressi. La struttura è bellissima, ampi spazi che agevoleranno le nostre pause (coffee break e pranzo). La sala plenaria, è davvero fantastica, speriamo solo che le poltrone non risultino troppo comode!
+
+Pernottare, poi, non sarà certo un problema!
+
+L'hotel più vicino è a soli 30mt, e sembra che ci siano più di 400 hotel a Bergamo di tutti i livelli, tipologie e prezzi. Pernottare non sarà certo un problema!
+
+Altro vantaggio, è la vicinanza con la stazione ferroviaria (circa 300mt) con tantissimi [collegamenti](https://prm.rfi.it/qo_prm/QO_Arrivi_SiPMR.aspx?Id=587&lin=it&dalle=09.00&alle=09.59&ora=09.00&guid=), frequentissimi quelli con Milano Centrale.
+
+Possiamo dire che, al momento, abbiamo soddisfatto la nostra lista dal punto 1 al punto 5.
+
+Per il punto 6 ed il punto 9 possiamo solo chiedervi di fidarvi di noi. Per la PG_beer ci stiamo lavorando e presto daremo l'annuncio, [per il cibo ... che dire?](http://bergamoatavola.altervista.org/piatti-bergamaschi-bergamo-ricette-cucina/)
+
+<img src="/img/posts/Bergamo_mura.png" align="left" Hspace="15" Vspace="0" Border="0">
+
+[Turistica?](https://www.visitbergamo.net/it/itinerario-bergamo-citta/) Le Mura di Bergamo fanno parte del Patrimonio Mondiale dell'UNESCO dal 9 Luglio 2017.
+
+E potremmo fermarci qui, certi di avervi già convinto.
+
+Bergamo è una città carica di storia, infatti sono concentrati ben 2.500 anni nella Città Alta. Tanti ne corrono dalle tracce di primi abitanti che risalgono al quinto secolo a.C. ad oggi.
+
+Bergamo alta offre al visitatore la possibilità di compiere una straordinaria escursione, unendo alla bellezza dei monumenti e dei luoghi, la scoperta del passato.
+
+Troppe cose da segnalare, la cosa migliore è esserci!
+
+Ma ancora non siete convinti?
+
+<img src="/img/posts/Bergamo_funicolare.png" align="right" Hspace="15" Vspace="0" Border="0">Altra particolarità: la [funicolare.](https://www.atb.bergamo.it/it/viaggia-con-noi/turismo-a-bergamo/funicolari)
+
+La prima funicolare di collegamento dalla Città Bassa alla Città Alta, con impianto di tipo tradizionale con due vetture a va e vieni, fu costruita nel 1887.
+
+Grande innovazione!
+
+Dati, dati, dati!
+
+* Lunghezza linea: destra m. 240; sinistra m. 234;
+* Dislivello m. 85 (da m. 271 a m. 356);
+* pendenza: massima 52%;
+* due carrozze da 50 posti ciascuna.
+
+Sappiamo benissimo che il nostro compito non è promuovere Bergamo, ma PostgreSQL. Ma con qualche attrattiva in più, partecipare al PGDay.IT è sicuramente accattivante.
+
+Che ci saranno speaker di eccellenza, ne siamo certi. Ritrovarci tutti insieme, l'occasione da non perdere. Perdere l'opportunità di fare nuovi incontri ed acquisire nuove competenze? Imperdonabile!
+
+ E se la famiglia storce il naso, fategli leggere il post e portateli con voi!
+
+![image](/img/posts/Bergamo_panorama.png)
+
+Per noi la lista è da 100!
+
+ Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
+
+##### Domande?
+
+Invia una email agli organizzatori [pgday@itpug.org](mailto:pgday@itpug.org)
