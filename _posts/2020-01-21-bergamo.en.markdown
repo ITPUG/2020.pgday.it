@@ -9,94 +9,99 @@ image: angolo.jpg
 ref: bergamo
 ---
 
-Come ormai sappiamo, il [PGDay.IT 2020](https://2020.pgday.en/it/) si terrà a  [Bergamo](https://2020.pgday.it/en/logistics/) nei giorni 11 e 12 giugno 2020.
+As we already know, the [PGDay.IT 2020](https://2020.pgday.en/it/) will be held in [Bergamo](https://2020.pgday.it/en/logistics/) between  11th and 12th of June 2020.
 
-###### Perchè Bergamo?
+###### How come Bergamo?
 
-Dopo alcune location non priorio a portata di mano, cercavamo un luogo che desse la sensazione di essere _"giusto dietro l'angolo"_ ma con peculiarità che ci attraessero.
+After the past few PgDay's that we made in locations surrounded by nature, we wanted this year to focus on a place that would give the _" around the corner"_ sensation, however not giving up on the attractive component.
 
-A cosa dare la priorità? Molto difficile!
+What are our priorities? Tough choice!
 
-<img src="/img/posts/Bergamo-posizione.png" align="right" Hspace="15" Vspace="0" Border="0"> Quindi siamo partiti con una lista dei desideri:
-1. una posizione strategica, quasi centrale;
-2. un aeroporto nelle vicinanze, con collegamenti in tutta Europa;
-3. una bella sede per il nostro evento;
-4. ben collega con tutta Italia;
-5. diverse tipologie di strutture alberghiere;
-6. locali particolari per una fantastica PG_beer;
-7. turisticamente attrattiva;
-8. con una particolarità che la rendesse facilmente riconoscibile;
-9. il cibo .... e su questo in Italia ovunque saremmo cascati bene!
+<img src="/img/posts/Bergamo-posizione.png" align="right" Hspace="15" Vspace="0" Border="0"> So we made a list of _"must-have"_:
+
+1. A strategic, central position;
+2. An airport in the nearby s, well connected with all Europe;
+3. Also well connected with every corner of Italy;
+4. A nice conference venue;
+5. Various accommodation types;
+6. Exciting [bars|clubs|dinner] places where to have our annual PgBeer;
+7. Appealing as a tourist resort;
+8. Distinctive, easily recognizable;
+9. Good food and wine... But hey, we're in Italy after all!
 
 
 <img src="/img/posts/OrioAlSerio-Destinazioni.png" align="left" Hspace="15" Vspace="0" Border="0">
 
-__Da qui: Bergamo!__
+__From here: Bergamo!__
 
-Senza temere smentite, Bergamo risulta abbastanza centrale rispetto al Nord Italia.
 
-Certamente vanta un aeroporto di tutto rispetto, [Orio al Serio](https://www.milanbergamoairport.it/en/), che collega l'Italia con tutta Europa e non solo.
+Bergamo is somehow central, in northern Italy. 
 
-Di puntini rossi ce ne sono davvero tanti!
+It boasts a great airport, [Orio al Serio](https://www.milanbergamoairport.it/en/), it connects all Europe and not only.
 
-E la cosa ancora più interessante è che si trova a circa 5km dalla sede scelta per il PGDay.IT 2020!
+It has lots of red dots on its map!
 
-Ancora più comodo?
+And one more exciting thing is that it is near, only 5 km, form the PGDay.IT 2020 conference venue. 
+
+Even more convenient?
 
 <img src="/img/posts/location.png" align="right" Hspace="15" Vspace="0" Border="0">
 
-L'unica nota che può essere fatta alla sede è che non è possibile pernottare nella stessa location.
+The only downside is that it is not possible to stay overnight at the same conference venue. 
 
-Infatti, il [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) non è un hotel, ma un centro cogngressi. La struttura è bellissima, ampi spazi che agevoleranno le nostre pause (coffee break e pranzo). La sala plenaria, è davvero fantastica, speriamo solo che le poltrone non risultino troppo comode!
+The [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) is not a hotel, but a Convention Centre. It's a beautiful structure, wide spaces that will facilitate our breaks. The plenary hall is lovely. We only hope that the chairs won't be too comfy!
 
-Pernottare, poi, non sarà certo un problema!
+The nearest hotel is only 30m away, and it seems that there are more than 400 hotels in Bergamo, any type, level, stars, or prices. Finding a place to stay overnight will not be a difficult thing to achieve, or would it? 
 
-L'hotel più vicino è a soli 30mt, e sembra che ci siano più di 400 hotel a Bergamo di tutti i livelli, tipologie e prezzi. Pernottare non sarà certo un problema!
+One other vantage, the rail station, is in the proximity (around 300m) with lots of [connections](https://prm.rfi.it/qo_prm/QO_Arrivi_SiPMR.aspx?Id=587&lin=it&dalle=09.00&alle=09.59&ora=09.00&guid=), very frequent those with Milan for example. 
 
-Altro vantaggio, è la vicinanza con la stazione ferroviaria (circa 300mt) con tantissimi [collegamenti](https://prm.rfi.it/qo_prm/QO_Arrivi_SiPMR.aspx?Id=587&lin=it&dalle=09.00&alle=09.59&ora=09.00&guid=), frequentissimi quelli con Milano Centrale.
+We can say that we satisfied the points from 1 to 5 in our "must-have" list. 
 
-Possiamo dire che, al momento, abbiamo soddisfatto la nostra lista dal punto 1 al punto 5.
-
-Per il punto 6 ed il punto 9 possiamo solo chiedervi di fidarvi di noi. Per la PG_beer ci stiamo lavorando e presto daremo l'annuncio, [per il cibo ... che dire?](http://bergamoatavola.altervista.org/piatti-bergamaschi-bergamo-ricette-cucina/)
+From 6 to 9, for now, we can only ask to have faith. Soon we will have the PG_beer announcement and for the [good food and wine... look for yourself](http://bergamoatavola.altervista.org/piatti-bergamaschi-bergamo-ricette-cucina/)
 
 <img src="/img/posts/Bergamo_mura.png" align="left" Hspace="15" Vspace="0" Border="0">
 
-[Turistica?](https://www.visitbergamo.net/it/itinerario-bergamo-citta/) Le Mura di Bergamo fanno parte del Patrimonio Mondiale dell'UNESCO dal 9 Luglio 2017.
+[Tourism?](https://www.visitbergamo.net/en/itinerario-bergamo-citta/) The Wals of Bergamo is part of the UNESCO World Heritage since July 9th, 2017.
 
-E potremmo fermarci qui, certi di avervi già convinto.
+We could stop here, knowing that it would be enough.
 
-Bergamo è una città carica di storia, infatti sono concentrati ben 2.500 anni nella Città Alta. Tanti ne corrono dalle tracce di primi abitanti che risalgono al quinto secolo a.C. ad oggi.
+Bergamo is a city steeped in history, in the "Città Alta" ("upper city"), a medieval hilltop town, surrounded by 16th-century defensive walls there are traces of the first inhabitants that go 2500 years back.
 
-Bergamo alta offre al visitatore la possibilità di compiere una straordinaria escursione, unendo alla bellezza dei monumenti e dei luoghi, la scoperta del passato.
 
-Troppe cose da segnalare, la cosa migliore è esserci!
+Upper Bergamo offers the opportunity to make an extraordinary excursion, combining the beauty of the monuments and places with the discovery of the past.
 
-Ma ancora non siete convinti?
+There are too many things that we could point out, but the best thing is for you to discover it.
 
-<img src="/img/posts/Bergamo_funicolare.png" align="right" Hspace="15" Vspace="0" Border="0">Altra particolarità: la [funicolare.](https://www.atb.bergamo.it/it/viaggia-con-noi/turismo-a-bergamo/funicolari)
+Need more to be convinced?
 
-La prima funicolare di collegamento dalla Città Bassa alla Città Alta, con impianto di tipo tradizionale con due vetture a va e vieni, fu costruita nel 1887.
+<img src="/img/posts/Bergamo_funicolare.png" align="right" Hspace="15" Vspace="0" Border="0">One other originality: the [funicolar.](https://www.atb.bergamo.it/it/viaggia-con-noi/turismo-a-bergamo/funicolari)
 
-Grande innovazione!
 
-Dati, dati, dati!
+The first funicular connecting the Lower Town to the Upper Town, with a traditional system with two back and forth cars, was built in 1887.
+EATGr innovation!
 
-* Lunghezza linea: destra m. 240; sinistra m. 234;
-* Dislivello m. 85 (da m. 271 a m. 356);
-* pendenza: massima 52%;
-* due carrozze da 50 posti ciascuna.
+Data, data, data!
 
-Sappiamo benissimo che il nostro compito non è promuovere Bergamo, ma PostgreSQL. Ma con qualche attrattiva in più, partecipare al PGDay.IT è sicuramente accattivante.
+* Line length: right m. 240; left m. 234;
+* Difference m. 85 (from m. 271 to m. 356);
+* Maximum power:  52%;
+* Two carriages with 50 seats each.
 
-Che ci saranno speaker di eccellenza, ne siamo certi. Ritrovarci tutti insieme, l'occasione da non perdere. Perdere l'opportunità di fare nuovi incontri ed acquisire nuove competenze? Imperdonabile!
 
- E se la famiglia storce il naso, fategli leggere il post e portateli con voi!
+We know very well that our job is not to promote Bergamo, but PostgreSQL. But with a few more attractions, participating in PGDay.IT is undoubtedly captivating.
+
+
+There will be speakers of excellence, we are sure. Meeting all together, you don't want to miss it. Miss the opportunity to make new meetings and acquire new skills? Unforgivable!
+
+
+And if the family turns up their noses, make them read the post and take them with you!
 
 ![image](/img/posts/Bergamo_panorama.png)
 
-Per noi la lista è da 100!
 
- Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
+For us, this list is super!
+
+See you in Bergamo on the 11th and 12th of June 2020.
 
 ##### Questions?
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
