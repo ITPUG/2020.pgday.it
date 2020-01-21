@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "In support of PGDay.IT"
+date:   2020-01-30 06:00:00
+isStaticPost: false
+permalink: /en/blog/partner
+lang: en
+image: partner.jpg
+ref: parner
+---
+
+
+##### Questions?
+Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)

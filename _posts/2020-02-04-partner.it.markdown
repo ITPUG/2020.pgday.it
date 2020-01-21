@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "In supporto al PGDay.IT"
+date:   2020-01-31 06:00:00
+isStaticPost: false
+permalink: /it/blog/partner
+lang: it
+ref: partner
+image: partner.jpg
+redirect-from:
+ - /blog/partner
+---
+
+Tutti sappiamo che l'organizzazione del PGDay.IT è demandata ad un gruppo di volontari che fanno parte dell'Associazione ITPUG - ITalian PostgreSQL Users Group. E su questo punto niente da eccepire.
+
+Certo è che non basta avere così tanti volontari che lavorano senza sosta alla realizzazione dell'evento. Occorre anche un supporto da parte dei Partner.
+
+Parliamo quindi del ruolo dei Partner, che non solo danno il loro supporto economico, ma che aiutano nella divulgazione della manifestazione.
+
+Nel nostro articolo "Fondamentali i giusti incastri" abbiamo già messo in evidenza quanto tutti gli "attori" del PGDay.IT e non solo, rappresintino un circolo virtuoso fondamentale per l'ottima riuscita della manifestazione.
+
+###### Quale è il ruolo di un Partner?
+
+Grazie al supporto di Aziende che rivestono il ruolo di Partner, è possibile portare a termine l'organizzazione della Conferenza coprendo tutti i costi che questa comporta. A partire dalla sede, ai gadget, alla registrazione dei talk, all'ospitare speaker di livello internazionale e così via.
+
+Ovviamente, un'associazione come la nostra non è in grado di coprire autonomamente tutti i costi che comporta un evento di questa portata ed i Partner, con il loro supporto, ci permetto la realizzazione del PGDay.IT a livello ottimale.
+
+Altro aspetto da non sottovalutare è il supporto dei Partner nella divulgazione dell'evento.
+
+Immaginiamo una serie di cerchi concentrici. Ogni cerchio rapprenta la rete di contatti di ogni Partner.
+
+La potenza di questo "passaparola" è davvero imponente!
+
+###### Perchè un'azienda dovrebbe annoverarsi tra i Partner del PGDay.IT?
+
+Do ut des!
+
+Dal significato letterale «io do affinché tu dia». Rapportandolo al nostro ambito: io azienda traggo benefici e vantaggi dal mondo Open Source, o meglio da PostgreSQL, e quindi decido di "ricambiare" dando il mio supporto ad una conferenza come il PGDay.IT.
+
+In senso più pratico, riteniamo che ci siano tre fondamentali motivi per diventare Partner del PGDay.IT: visibilità, credibilità, opportunità.
+
+**Visibilità:** Le persone che partecipano al PGDay.IT sono sicuramente molto motivate ed interessate a PostgreSQL, ai servizi offerti, alle soluzioni sviluppate, alle nuove tecnologie e così via.
+
+Il PGDay.IT, quindi, è un’ottima opportunità per accrescere la visibilità delle aziende di settore e non solo.
+
+La possibilità di interazione con tutti i partecipanti, permette di incrementare il networking delle aziende.
+
+**Credibilità:** Le aziende che propongono servizi, soluzioni e/o prodotti basati su PostgreSQL, supportando il PGDay.IT attraverso una Partnership, accrescono la loro credibilità, consolidando la loro appartenenza all'interno dell'Ecosistema di PostgreSQL.
+
+Il branding è un aspetto molto importatene  del successo aziendale, specialmente in settori dove fiducia e reputazione fanno la differenza.
+
+Supportare una conferenza come il PGDay.IT, è un modo efficacie per dire al vostro settore di riferimento che la vostra azienda è affidabile, strutturata e abbastanza solida da presenziare agli eventi importanti.
+
+**Opportunità:** Conferenze come i PGDay e le PGConf sono grandi opportunità per sapere in quale direzione sta andando PostgreSQL e con quali nuove tecnologie si interfaccia.
+
+Partecipare permette di trarre spunti interessanti, nuove idee e nuove strategie. Oltre all'incremento del know hpow aziendale.
+
+###### Quali aziende vediamo nel ruolo di un Partner?
+
+Ogni azienda che:
+
++ offre servizi su PostgreSQL;
+* propone soluzioni basate su PostgreSQL;
+* xxxxx
+* xxxxx
+
+Oltre ai Partner storici che invitiamo a confermare il loro supporto confermando la loro presenza anche per l'edizione 2020 del PGDay.IT, ci auguriamo di accrescere il nostro network di relazioni, con nuove aziende al nostro fianco.
+
+###### Pacchetti Partnership, quale scegliere?
+
+I nostri Partner possono scegliere tra le nostre proposte Partnership la soluzione che meglio li rappresenti.
+
+xxxxx
+
+xxxxx
+
+##### Domande?
+
+Invia una email agli organizzatori [pgday@itpug.org](mailto:pgday@itpug.org)
