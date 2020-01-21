@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Giusto dietro l’angolo"
-date:   2020-01-25 04:00:00
+date:   2020-01-22 04:00:00
 isStaticPost: false
 permalink: /it/blog/cfp
 lang: it
-ref: cfp
+ref: bergamo
 image: angolo.jpg
 redirect-from:
  - /blog/bergamo
@@ -97,7 +97,7 @@ Che ci saranno speaker di eccellenza, ne siamo certi. Ritrovarci tutti insieme, 
 
 Per noi la lista è da 100!
 
- Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
+Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
 
 ##### Domande?
 

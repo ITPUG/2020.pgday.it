@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Just around the corner"
-date:   2020-01-25 04:00:00
+date:   2020-01-22 04:00:00
 isStaticPost: false
 permalink: /en/blog/cfp
 lang: en
@@ -35,27 +35,27 @@ What are our priorities? Tough choice!
 __From here: Bergamo!__
 
 
-Bergamo is somehow central, in northern Italy. 
+Bergamo is somehow central, in northern Italy.
 
 It boasts a great airport, [Orio al Serio](https://www.milanbergamoairport.it/en/), it connects all Europe and not only.
 
 It has lots of red dots on its map!
 
-And one more exciting thing is that it is near, only 5 km, form the PGDay.IT 2020 conference venue. 
+And one more exciting thing is that it is near, only 5 km, form the PGDay.IT 2020 conference venue.
 
 Even more convenient?
 
 <img src="/img/posts/location.png" align="right" Hspace="15" Vspace="0" Border="0">
 
-The only downside is that it is not possible to stay overnight at the same conference venue. 
+The only downside is that it is not possible to stay overnight at the same conference venue.
 
 The [Centro Congressi Giovanni XXIII](https://www.centrocongressibergamo.com/) is not a hotel, but a Convention Centre. It's a beautiful structure, wide spaces that will facilitate our breaks. The plenary hall is lovely. We only hope that the chairs won't be too comfy!
 
-The nearest hotel is only 30m away, and it seems that there are more than 400 hotels in Bergamo, any type, level, stars, or prices. Finding a place to stay overnight will not be a difficult thing to achieve, or would it? 
+The nearest hotel is only 30m away, and it seems that there are more than 400 hotels in Bergamo, any type, level, stars, or prices. Finding a place to stay overnight will not be a difficult thing to achieve, or would it?
 
-One other vantage, the rail station, is in the proximity (around 300m) with lots of [connections](https://prm.rfi.it/qo_prm/QO_Arrivi_SiPMR.aspx?Id=587&lin=it&dalle=09.00&alle=09.59&ora=09.00&guid=), very frequent those with Milan for example. 
+One other vantage, the rail station, is in the proximity (around 300m) with lots of [connections](https://prm.rfi.it/qo_prm/QO_Arrivi_SiPMR.aspx?Id=587&lin=it&dalle=09.00&alle=09.59&ora=09.00&guid=), very frequent those with Milan for example.
 
-We can say that we satisfied the points from 1 to 5 in our "must-have" list. 
+We can say that we satisfied the points from 1 to 5 in our "must-have" list.
 
 From 6 to 9, for now, we can only ask to have faith. Soon we will have the PG_beer announcement and for the [good food and wine... look for yourself](http://bergamoatavola.altervista.org/piatti-bergamaschi-bergamo-ricette-cucina/)
 
