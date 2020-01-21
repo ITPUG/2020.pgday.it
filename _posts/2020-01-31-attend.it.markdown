@@ -17,9 +17,9 @@ Queste manifestazioni giocano un ruolo fondamentale dal punto di vista della div
 
 È all’interno di un evento di questo tipo che PostgreSQL ed il suo Ecosistema hanno la possibilità di entrare in contatto con un più ampio bacino di utenza, ed è sempre grazie a tali manifestazioni che le aziende hanno l'opportunità di elaborare un piano strategico a medio/lungo termine basandosi sulle novità presentate durante una PGconf o un PGday.
 
-Tutti sappiamo che una strategia basata su prodotti Open Source, permette alle aziende di essere sempre più competitive sul mercato di rifeimento.
+Tutti sappiamo che una strategia basata su prodotti Open Source, permette alle aziende di essere sempre più competitive sul mercato di riferimento.
 
-Per quanto sia vero che la tecnologia digitale ci permette di essere ovunque senza muoversi dalla propria città, di acquisire informazioni ad una velocità impressionante, oggi più che mai è forte l'esigenza di un confronto diretto, di uno scambio di esperienze, di una condivione di idee.
+Per quanto sia vero che la tecnologia digitale ci permette di essere ovunque senza muoversi dalla propria città, di acquisire informazioni ad una velocità impressionante, oggi più che mai è forte l'esigenza di un confronto diretto, di uno scambio di esperienze, di una condivisione di idee.
 
 Ecco motivata la forte partecipazione ed interesse ad eventi come i PGDay e le PGConf.
 
@@ -29,9 +29,10 @@ Per la nostra associazione ITPUG, il PGDay.IT è **un appuntamento imperdibile!*
 
 È un momento di condivisione, è un ritrovarsi tra amici, è un'occasione per allargare la nostra rete. E, perché no, l'occasione di stupirci per quanta strada abbiamo fatto insieme.
 
-Certo che, detto da noi che siamo di parte, ha poca rilevanza.
+Certo che detto da noi che siamo di parte ha poca rilevanza.
+Allora dacci il to punto di vista!
 
-#### Perchè partecipare al PGDay.IT 2020?
+#### Perché partecipare al PGDay.IT 2020?
 
 Ci farebbe un piacere immenso ricevere i vostri commenti per poterli pubblicare all'interno di questo post. Inviate le vostre opinioni, le vostre esperienze a [pgday@itpug.org](mailto:pgday@itpug.org) e noi saremo felici di pubblicarle senza censura.     
 

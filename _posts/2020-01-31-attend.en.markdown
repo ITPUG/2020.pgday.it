@@ -9,6 +9,31 @@ image: attend.jpg
 ref: attend
 ---
 
+Every year, in any country in the world and at any latitude, conferences, meetups and other events dedicated to Open Source and in particular to PostgreSQL are organized.
 
+These events play a fundamental role from the point of view of the dissemination and sharing of the news and opportunities that this reality offers.
+
+It is within such an event that PostgreSQL and its Ecosystem have the opportunity to come into contact with a wider catchment area, and it is always thanks to these events that companies have the opportunity to develop a strategic medium/long term plan based on the news presented during a PGconf or a PGday.
+
+We all know that a strategy based on Open Source products allows companies to be increasingly competitive on the reference market.
+
+Although it is true that digital technology allows us to be everywhere without moving from our city, to acquire information at an impressive speed, today more than ever there is a strong need for direct confrontation, exchange of experiences and, sharing of ideas.
+
+This is the reason for the strong participation and interest in events such as the PGDays and the PGConf.
+
+For our ITPUG association, PGDay.IT is ** an unmissable appointment! **
+
+It is certainly a fundamental opportunity to highlight the strengths of PostgreSQL and Open Source, but not only!
+
+It is a moment of sharing, it is a friends reunion, it is an opportunity to expand our network. And, why not, the opportunity to be amazed at how far we have gone together.
+
+Of course, we're biased, it doesn't count.
+Well then tell us your point of view!
+
+#### Why participate to the PGDay.IT 2020?
+
+We would be delighted to receive your comments in order to publish them in this post. Send your opinions, your experiences to [pgday@itpug.org] (mailto: pgday@itpug.org) and we will be happy to publish them without censorship.
+
+See you in Bergamo on 11 and 12 June 2020!
 ##### Questions?
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
