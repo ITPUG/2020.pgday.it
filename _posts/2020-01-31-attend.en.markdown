@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "An unmissable appointment"
+date:   2020-01-31 05:00:00
+isStaticPost: false
+permalink: /en/blog/attend
+lang: en
+image: attend.jpg
+ref: attend
+---
+
+
+##### Questions?
+Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)

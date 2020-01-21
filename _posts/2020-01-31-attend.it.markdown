@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Un appuntamento imperdibile"
+date:   2020-01-31 05:00:00
+isStaticPost: false
+permalink: /it/blog/attend
+lang: it
+ref: attend
+image: attend.jpg
+redirect-from:
+ - /blog/attend
+---
+
+Ogni anno, in qualsiasi paese del mondo e ad ogni latitudine, vengono organizzate conferenze, meetup ed altri eventi dedicate all'Open Source ed in modo particolare a PostgreSQL.
+
+Queste manifestazioni giocano un ruolo fondamentale dal punto di vista della divulgazione e condivisione delle novità e delle opportunità che questo mondo offre.
+
+È all’interno di un evento di questo tipo che PostgreSQL ed il suo Ecosistema hanno la possibilità di entrare in contatto con un più ampio bacino di utenza, ed è sempre grazie a tali manifestazioni che le aziende hanno l'opportunità di elaborare un piano strategico a medio/lungo termine basandosi sulle novità presentate durante una PGconf o un PGday.
+
+Tutti sappiamo che una strategia basata su prodotti Open Source, permette alle aziende di essere sempre più competitive sul mercato di rifeimento.
+
+Per quanto sia vero che la tecnologia digitale ci permette di essere ovunque senza muoversi dalla propria città, di acquisire informazioni ad una velocità impressionante, oggi più che mai è forte l'esigenza di un confronto diretto, di uno scambio di esperienze, di una condivione di idee.
+
+Ecco motivata la forte partecipazione ed interesse ad eventi come i PGDay e le PGConf.
+
+Per la nostra associazione ITPUG, il PGDay.IT è **un appuntamento imperdibile!**
+
+È sicuramente un’occasione fondamentale per mettere in luce i punti di forza di PostgreSQL e dell'Open Source, ma non solo!
+
+È un momento di condivisione, è un ritrovarsi tra amici, è un'occasione per allargare la nostra rete. E, perché no, l'occasione di stupirci per quanta strada abbiamo fatto insieme.
+
+Certo che, detto da noi che siamo di parte, ha poca rilevanza.
+
+#### Perchè partecipare al PGDay.IT 2020?
+
+Ci farebbe un piacere immenso ricevere i vostri commenti per poterli pubblicare all'interno di questo post. Inviate le vostre opinioni, le vostre esperienze a [pgday@itpug.org](mailto:pgday@itpug.org) e noi saremo felici di pubblicarle senza censura.     
+
+Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
