@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Fondamentali i giusti incastri"
+date:   2020-01-20 06:00:00
+isStaticPost: false
+permalink: /it/blog/puzzle
+lang: it
+ref: puzzle
+image: puzzle.jpg
+redirect-from:
+ - /blog/puzzle
+---
+
+<img src="/img/posts/cubo.png" align="left" Hspace="15" Vspace="0" Border="0">
+
+Quanti di voi sono amanti del Cubo di Rubik? di Puzzle?
+
+I giusti incasti sono fondamentali per l'ottima riuscita del gioco.
+
+L'assenza di una tessera del puzzle, rende impossibile il gioco e tutto si ferma. Una mossa sbagliata con il Cubo di Rubik, scombina tutto ed il gioco diventa uno stress!
+
+Stiamo parlando di "rompicapo": passatempi che consistono in problemi o enigmi che mette alla prova l'ingegno di chi è chiamato a risolverli. Come sappiamo, esistono numerosi diversi tipi di rompicapo, che richiedono per la soluzione attitudini diverse.
+
+Attinenza?
+
+Molta!
+
+<img src="/img/posts/puzzle_title.png" align="right" Hspace="15" Vspace="0" Border="0">
+
+Organizzare in maniera ottimale il PGDay.IT, come qualsiasi altro evento di comunità, richiede che tutte le tessere, tutti gli incastri siano al posto giusto e nessuna tessera deve mancare.
+
+Analizziamo il PGDay.IT 2020:
+
+* Volontari
+* Speaker
+* Partecipanti
+* Partner
+
+**Volontari:** Tutto parte dal lavoro dei volontari dell'[Associazione ITPUG - ITalian PostgreSQL Users Group](https://www.itpug.org/).
+
+Le attività da portare avanti sono davvero tante. Si va dalla ricerca e dalla scelta della città, la location e le date. Al lavoro sul sito web, la comunicazione e la divulgazione della conferenza.
+
+La selezione dei talk, la ricerca del keynote e la definizione del programma. La definizione del catering, l'organizzazione degli spazi.
+
+Il monitoraggio del budget per la selezione dei gadget, oltre a portare avanti tutti gli adempimenti amministrativi e burocratici. La ricerca di Media Partner oltre agli adempimenti burocratici per la richiesta dei patrocini agli Enti locali.
+
+Organizzare l'accoglienza con tutti gli accessori necessari (badge, borse, etc.). Organizzare la PG_beer, dare l'aiuto richiesto ai partecipanti. E così via. Tra i mast delel attivitità: la ricerca di Partner!
+
+Trattandosi di un'associazione, tutti immaginiamo che si tratti di attività svolte grazie al tempo dedicato dai nostri volontari.
+
+Certo è, che anche fossimo 100 volontari, non basteremmo per dar vita al PGDay.IT. Siamo solo una delle componenti, ma senza le altre, risulteremmo inconsistenti.
+
+**Speaker:** Le ultime edizioni ci hanno permesso di pubblicare programmi davvero di eccellenza. Gli speaker che ci hanno inviato le loro proposte, hanno reso la selezione da parte della nostra Commissione Tecnica davvero difficile.
+
+Speaker nazioni ed internazionali di alto livello. Sarebbe fantastico ricevere ancora più proposte di talk, magari costringendoci ad una track aggiuntiva o addirittura ad una giornata aggiuntiva.
+
+Il nostro obiettivo è quello di fornire ai partecipanti più informazioni tecniche possibili, ma il mondo Open Source è così vasto e PostgreSQL è in grado di interfacciarsi/adeguarsi con tutte queste tecnologie.
+
+PostgreSQL si, ma non solo!
+
+<img src="/img/posts/europa.png" align="left" Hspace="15" Vspace="0" Border="0">
+
+**Partecipanti:** Il numero dei partecipanti nelle ultime tre edizioni è stato davvero eccezionale. Oltre a provenire da tutta Italia, abbiamo avuto un numero consistente di Europei e anche oltre!
+
+Con questa edizione vorremmo raggiungere quota 200!
+
+L'invito è rivolto agli appassionati, agli utilizzatori, ai curiosi, ai dubbiosi e agli scettici! E da ogni dove.
+
+Partecipare permette di accrescere le proprie competenze tecniche, di risolvere quesiti, di confrontarsi con tecnici di alto livello e di verificare come le aziende hanno implementato PostgreSQL all'interno della loro infrastruttura.
+
+Lo ribadiamo sempre e non ci stancheremo mai di farlo: l'Open Source non è solo codice. Far parte di questo mondo, stimola la curiosità ed apre la mente.
+
+**Partner:** Figura fondamentale, non solo per il supporto economico necessario ad un'associazione come la nostra. Ma le aziende che supportano il PGDay.IT attraverso un contratto di Partnership, aiutano la manifestazione ad essere sempre più visibile.
+
+Come?
+
+Divulgano all'interno della propria rete l'informazione, magari anhe grazie al loro codice sconto sui biglietti. Invitano i loro clienti più importanti. Condividono i contenuti della Conferenza.
+
+D'altro canto, per un'azienda essere partner del PGDay.IT, significa accrescere la propria credibilità in un mondo a volte "diffidente", offre opportunità di mercato ed ovviamente da visibilità in un contesto che magari non è il suo.
+
+Le ulrime tre edizioni del PGDay.IT hanno visto la presenza di nuovi Partner e la conferma di Partner storici.
+
+<img src="/img/posts/partner_post.png" align="center" Hspace="15" Vspace="0" Border="0">
+
+Ringraziamo ancora tutte le aziende che sono state al nostro fianco, permettendoci di realizzare i PGDay.IT con grande soddisfazione dei partecipanti.
+
+##### Fondamentali i giusti incastri!
+
+Ci vediamo a Bergamo nei giorni 11 e 12 giugno 2020!
+
+##### Domande?
+
+Invia una email agli organizzatori [pgday@itpug.org](mailto:pgday@itpug.org)

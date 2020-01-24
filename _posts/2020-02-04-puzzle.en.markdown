@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The right joints are fundamental"
+date:   2020-01-20 06:00:00
+isStaticPost: false
+permalink: /en/blog/puzzle
+lang: en
+image: puzzle.jpg
+ref: puzzle
+---
+
+
+##### Questions?
+Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
