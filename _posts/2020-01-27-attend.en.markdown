@@ -34,8 +34,6 @@ Well then tell us your point of view!
 
 #### Why participate to the PGDay.IT 2020?
 
-We would be delighted to receive your comments in order to publish them in this post. Send your opinions, your experiences to [pgday@itpug.org] (mailto: pgday@itpug.org) and we will be happy to publish them without censorship.
+We would be delighted to receive your comments in order to publish them in this post. Send your opinions, your experiences to [pgday@itpug.org](mailto:pgday@itpug.org) and we will be happy to publish them without censorship.
 
 See you in Bergamo on 11 and 12 June 2020!
-##### Questions?
-Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
