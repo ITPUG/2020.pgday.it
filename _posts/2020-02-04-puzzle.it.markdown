@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fondamentali i giusti incastri"
-date:   2020-01-20 06:00:00
+date:   2020-01-31 06:00:00
 isStaticPost: false
 permalink: /it/blog/puzzle
 lang: it
