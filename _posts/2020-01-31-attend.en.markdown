@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "An unmissable appointment"
-date:   2020-01-31 05:00:00
+date:   2020-01-27 05:00:00
 isStaticPost: false
 permalink: /en/blog/attend
 lang: en
@@ -9,7 +9,7 @@ image: attend.jpg
 ref: attend
 ---
 
-Every year, in any country in the world and at any latitude, conferences, meetups and other events dedicated to Open Source and in particular to PostgreSQL are organized.
+Every year, in any country in the world and at any latitude, conferences, meetups and other events dedicated to Open Source and [in particular to PostgreSQL](https://www.postgresql.org/about/events/) are organized.
 
 These events play a fundamental role from the point of view of the dissemination and sharing of the news and opportunities that this reality offers.
 
@@ -21,9 +21,11 @@ Although it is true that digital technology allows us to be everywhere without m
 
 This is the reason for the strong participation and interest in events such as the PGDays and the PGConf.
 
-For our ITPUG association, PGDay.IT is ** an unmissable appointment! **
+For our [ITPUG](https://www.itpug.org/) association, PGDay.IT is ** an unmissable appointment! **
 
 It is certainly a fundamental opportunity to highlight the strengths of PostgreSQL and Open Source, but not only!
+
+<img src="/img/posts/community.png" align="left" Hspace="15" Vspace="0" Border="0">
 
 It is a moment of sharing, it is a friends reunion, it is an opportunity to expand our network. And, why not, the opportunity to be amazed at how far we have gone together.
 

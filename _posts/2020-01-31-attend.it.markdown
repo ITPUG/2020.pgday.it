@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Un appuntamento imperdibile"
-date:   2020-01-31 05:00:00
+date:   2020-01-27 05:00:00
 isStaticPost: false
 permalink: /it/blog/attend
 lang: it
@@ -11,7 +11,7 @@ redirect-from:
  - /blog/attend
 ---
 
-Ogni anno, in qualsiasi paese del mondo e ad ogni latitudine, vengono organizzate conferenze, meetup ed altri eventi dedicate all'Open Source ed in modo particolare a PostgreSQL.
+Ogni anno, in qualsiasi paese del mondo e ad ogni latitudine, vengono organizzate conferenze, meetup ed altri eventi dedicate all'Open Source ed [in modo particolare a PostgreSQL](https://www.postgresql.org/about/events/).
 
 Queste manifestazioni giocano un ruolo fondamentale dal punto di vista della divulgazione e condivisione delle novità e delle opportunità che questo mondo offre.
 
@@ -23,9 +23,11 @@ Per quanto sia vero che la tecnologia digitale ci permette di essere ovunque sen
 
 Ecco motivata la forte partecipazione ed interesse ad eventi come i PGDay e le PGConf.
 
-Per la nostra associazione ITPUG, il PGDay.IT è **un appuntamento imperdibile!**
+Per la nostra associazione [ITPUG](https://www.itpug.org/), il PGDay.IT è **un appuntamento imperdibile!**
 
 È sicuramente un’occasione fondamentale per mettere in luce i punti di forza di PostgreSQL e dell'Open Source, ma non solo!
+
+<img src="/img/posts/community.png" align="left" Hspace="15" Vspace="0" Border="0">
 
 È un momento di condivisione, è un ritrovarsi tra amici, è un'occasione per allargare la nostra rete. E, perché no, l'occasione di stupirci per quanta strada abbiamo fatto insieme.
 
