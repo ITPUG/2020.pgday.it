@@ -27,7 +27,7 @@ Per la nostra associazione [ITPUG](https://www.itpug.org/), il PGDay.IT è **un 
 
 È sicuramente un’occasione fondamentale per mettere in luce i punti di forza di PostgreSQL e dell'Open Source, ma non solo!
 
-<img src="/img/posts/community.png" align="left" Hspace="15" Vspace="0" Border="0">
+<img src="/img/posts/community.png" align="left" hspace="15" Vspace="0" Border="0">
 
 È un momento di condivisione, è un ritrovarsi tra amici, è un'occasione per allargare la nostra rete. E, perché no, l'occasione di stupirci per quanta strada abbiamo fatto insieme.
 
