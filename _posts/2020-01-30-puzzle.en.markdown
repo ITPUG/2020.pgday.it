@@ -34,7 +34,7 @@ Let's analyze the PGDay.IT 2020:
 * Participants
 * Partnership
 
-** Volunteers: ** Everything starts from the work of the volunteers of the [ITPUG Association - ITalian PostgreSQL Users Group] (https://www.itpug.org/).
+**Volunteers:** Everything starts from the work of the volunteers of the [ITPUG Association - ITalian PostgreSQL Users Group] (https://www.itpug.org/).
 
 There are really many activities to be carried out. It ranges from research and choice of city, location and dates. At work on the website, the communication and dissemination of the conference.
 
@@ -48,17 +48,17 @@ Being an association, we all imagine that it is an activity carried out thanks t
 
 The certainty is that even if we were 100 volunteers, it would not be enough to create PGDay.IT. We are only one part of the components, but without the others, it would be inconsistent.
 
-** Speakers: ** The latest editions have allowed us to publish truly excellent programs. The speakers who sent us their proposals made the selection by our Technical Commission really difficult.
+**Speakers:** The latest editions have allowed us to publish truly excellent programs. The speakers who sent us their proposals made the selection by our Technical Commission really difficult.
 
-High level national and international speakers. It would be fantastic to receive even more talk proposals, perhaps forcing us to an additional track or even to an additional day.
+High level national and international speakers. It would be fantastic to receive even more talk proposals, forcing us to an additional track or even to an additional day.
 
-Our goal is to provide participants with as much technical information as possible, but the Open Source world is so vast and PostgreSQL is able to interface / adapt with all these technologies.
+Our goal is to provide participants with as much technical information as possible, but the Open Source world is so vast and PostgreSQL is able to interface/adapt with all these technologies.
 
 PostgreSQL yes, but not only!
 
 <img src = "/ img / posts / europa.png" align = "left" Hspace = "15" Vspace = "0" Border = "0">
 
-** Participants: ** The number of participants in the last three editions has been truly exceptional. In addition to coming from all over Italy, we have had a substantial number of Europeans and beyond!
+**Participants:** The number of participants in the last three editions has been truly exceptional. In addition to coming from all over Italy, we have had a substantial number of Europeans and beyond!
 
 With this edition we would like to reach 200 people!
 
@@ -68,15 +68,15 @@ Participating allows you to increase your technical skills, to have answers, to 
 
 We always reiterate this and we will never be tired of doing it: Open Source is not just code. Being part of this world stimulates curiosity and opens the mind.
 
-** Partner: ** Fundamental figure, not only for the financial support necessary for an association like ours. But the companies that support PGDay.IT through a Partnership contract, help the event to be increasingly visible.
+**Partner:** Fundamental figure, not only for the financial support necessary for an association like ours. But the companies that support PGDay.IT through a Partnership contract, also help the event to be increasingly visible.
 
 How?
 
-They disseminate information within their network, perhaps even thanks to their discount code on tickets. They invite their most important customers. They share the contents of the conference.
+Disseminating information within their network, perhaps even thanks to their discount code on tickets. Inviting their most important customers. Sharing the contents of the conference.
 
 On the other hand, to be a partner of PGDay.IT means to increase a company's credibility in a world that is sometimes "wary". It offers market opportunities and obviously offers visibility, in a context that perhaps is not his own.
 
-The last three editions of PGDay.IT have seen the presence of new Partners and the confirmation of Historical Partners.
+The last three editions of PGDay.IT have seen the presence of new Partners and the confirmation of historical Partners.
 
 <img src = "/ img / posts / partner_post.png" align = "center" Hspace = "15" Vspace = "0" Border = "0">
 
