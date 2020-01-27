@@ -19,7 +19,7 @@ I giusti incasti sono fondamentali per l'ottima riuscita del gioco.
 
 L'assenza di una tessera del puzzle, rende impossibile il gioco e tutto si ferma. Una mossa sbagliata con il Cubo di Rubik, scombina tutto ed il gioco diventa uno stress!
 
-Stiamo parlando di "rompicapo": passatempi che consistono in problemi o enigmi che mette alla prova l'ingegno di chi è chiamato a risolverli. Come sappiamo, esistono numerosi diversi tipi di rompicapo, che richiedono per la soluzione attitudini diverse.
+Stiamo parlando di "rompicapo": passatempi che consistono in problemi o enigmi che mettono alla prova l'ingegno di chi è chiamato a risolverli. Come sappiamo, esistono numerosi diversi tipi di rompicapo, che richiedono per la soluzione attitudini diverse.
 
 Attinenza?
 
@@ -44,7 +44,7 @@ La selezione dei talk, la ricerca del keynote e la definizione del programma. La
 
 Il monitoraggio del budget per la selezione dei gadget, oltre a portare avanti tutti gli adempimenti amministrativi e burocratici. La ricerca di Media Partner oltre agli adempimenti burocratici per la richiesta dei patrocini agli Enti locali.
 
-Organizzare l'accoglienza con tutti gli accessori necessari (badge, borse, etc.). Organizzare la PG_beer, dare l'aiuto richiesto ai partecipanti. E così via. Tra i mast delel attivitità: la ricerca di Partner!
+Organizzare l'accoglienza con tutti gli accessori necessari (badge, borse, etc.). Organizzare la PG_beer, dare l'aiuto richiesto ai partecipanti. E così via. Tra i must delle attivitità: la ricerca di Partner!
 
 Trattandosi di un'associazione, tutti immaginiamo che si tratti di attività svolte grazie al tempo dedicato dai nostri volontari.
 
@@ -52,7 +52,7 @@ Certo è, che anche fossimo 100 volontari, non basteremmo per dar vita al PGDay.
 
 **Speaker:** Le ultime edizioni ci hanno permesso di pubblicare programmi davvero di eccellenza. Gli speaker che ci hanno inviato le loro proposte, hanno reso la selezione da parte della nostra Commissione Tecnica davvero difficile.
 
-Speaker nazioni ed internazionali di alto livello. Sarebbe fantastico ricevere ancora più proposte di talk, magari costringendoci ad una track aggiuntiva o addirittura ad una giornata aggiuntiva.
+Speaker nazionali ed internazionali di alto livello. Sarebbe fantastico ricevere ancora più proposte di talk, magari costringendoci ad una track aggiuntiva o addirittura ad una giornata aggiuntiva.
 
 Il nostro obiettivo è quello di fornire ai partecipanti più informazioni tecniche possibili, ma il mondo Open Source è così vasto e PostgreSQL è in grado di interfacciarsi/adeguarsi con tutte queste tecnologie.
 
@@ -70,15 +70,15 @@ Partecipare permette di accrescere le proprie competenze tecniche, di risolvere 
 
 Lo ribadiamo sempre e non ci stancheremo mai di farlo: l'Open Source non è solo codice. Far parte di questo mondo, stimola la curiosità ed apre la mente.
 
-**Partner:** Figura fondamentale, non solo per il supporto economico necessario ad un'associazione come la nostra. Ma le aziende che supportano il PGDay.IT attraverso un contratto di Partnership, aiutano la manifestazione ad essere sempre più visibile.
+**Partner:** Figura fondamentale, non solo per il supporto economico necessario ad un'associazione come la nostra. Ma le aziende che supportano il PGDay.IT attraverso un contratto di Partnership, aiutano la manifestazione anche ad essere sempre più visibile.
 
 Come?
 
-Divulgano all'interno della propria rete l'informazione, magari anhe grazie al loro codice sconto sui biglietti. Invitano i loro clienti più importanti. Condividono i contenuti della Conferenza.
+Divulgando all'interno della propria rete l'informazione, magari anche grazie al loro codice sconto sui biglietti. Invitando i loro clienti più importanti. Condividendo i contenuti della Conferenza.
 
 D'altro canto, per un'azienda essere partner del PGDay.IT, significa accrescere la propria credibilità in un mondo a volte "diffidente", offre opportunità di mercato ed ovviamente da visibilità in un contesto che magari non è il suo.
 
-Le ulrime tre edizioni del PGDay.IT hanno visto la presenza di nuovi Partner e la conferma di Partner storici.
+Le ultime tre edizioni del PGDay.IT hanno visto la presenza di nuovi Partner e la conferma di Partner storici.
 
 <img src="/img/posts/partner_post.png" align="center" Hspace="15" Vspace="0" Border="0">
 
