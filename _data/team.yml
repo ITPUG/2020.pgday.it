@@ -39,8 +39,6 @@
   exTeam: true
   social:
     - {name: "email", link: "mailto:pgday@itpug.org"}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
 -
   id: 0
   name: "Gabriele"
