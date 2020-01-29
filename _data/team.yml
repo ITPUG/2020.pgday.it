@@ -38,7 +38,7 @@
   thumbnailUrl: anonimo_team.jpg
   exTeam: true
   social:
-    - {name: "twitter", link: ""}
+    - {name: "email", link: "mailto:pgday@itpug.org"}
     - {name: "github", link: ""}
     - {name: "linkedin", link: ""}
 -
