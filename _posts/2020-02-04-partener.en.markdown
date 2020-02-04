@@ -9,6 +9,67 @@ image: partner.jpg
 ref: parner
 ---
 
+We all know that organizing the PGDay.IT is entrusted to a group of volunteers who are part of the ITPUG - ITalian PostgreSQL Users Group Association. And there is nothing to say about it.
+
+What is certain is that it is not enough to have so many volunteers who work tirelessly to create the event. 
+Support from Partners is also needed!
+
+So let's talk about the role of the Partners, who not only give their financial support but also help in the dissemination of the event.
+
+In our article *The right joints are fundamental* we have already highlighted how all the "actors" of PGDay.IT and not only represent a virtuous circle essential for the excellent success of the event.
+
+###### What is the role of a Partner?
+
+Thanks to  the companies that play the role of the *Partner*, it is possible to complete the organization of the Conference by covering all the costs. 
+Starting from the office, gadgets,  recording the talks, hosting speakers at an international level, and so on.
+
+Obviously, an association like ours is not able to independently cover all the costs involved in an event of this magnitude and the Partners, with their support, allow us to create the PGDay.IT at an optimal level.
+
+Another aspect not to be underestimated is the support of the Partners in the dissemination of the event.
+
+Imagine a series of concentric circles. Each circle represents the network of contacts of each Partner.
+
+The power of this "word of mouth" is awe-inspiring!
+
+###### Why should a company count among the PGDay.IT Partners?
+
+Do ut des!
+
+From the literal meaning, "I give that you might give". Relating it to our area: I get benefits and advantages from the Open Source world, or better, from PostgreSQL, and therefore I decide to "reciprocate" giving my support to a conference like PGDay.IT.
+
+In a more practical sense, we believe there are three fundamental reasons for becoming a PGDay.IT Partner: visibility, credibility, opportunity.
+
+**Visibility:** The people who participate in PGDay.IT are certainly highly motivated and interested in PostgreSQL, the services offered, the solutions developed, new technologies, and so on.
+
+PGDay.IT, therefore, is an excellent opportunity to increase the visibility of companies in the sector and beyond.
+
+The possibility of interaction with all the participants allows increasing the networking of the companies.
+
+**Credibility:** Companies that offer services, solutions and/or products based on PostgreSQL, by supporting PGDay.IT, through a Partnership, increase their credibility, consolidating their belonging within the PostgreSQL Ecosystem.
+
+Branding is a vital aspect of business success, especially in areas where trust and reputation make the difference.
+
+Supporting a conference like PGDay.IT is an effective way to tell your target sector that your company is reliable, structured, and solid enough to attend important events.
+
+**Opportunities:** Conferences such as PGDays and PGConf are great opportunities to know which direction PostgreSQL is going and what new technologies it is interfacing with.
+
+Participating allows you to draw interesting ideas, new ideas, and new strategies in addition to the increase in corporate know-how.
+
+###### Which companies do we see in the role of a Partner?
+
+Any company that:
+
+* offers services on PostgreSQL;
+* offers solutions based on PostgreSQL;
+* uses PostgreSQL
+* or any activity that is related to Postgresql
+
+In addition to the historical Partners, that we invite to confirm their support by establishing their presence also for the 2020 edition of PGDay.IT, we hope to increase our network of relationships with new companies on our side.
+
+###### Partnership packages, which one to choose?
+
+TODO: Personal packages for each company based on their interest.
+
 
 ##### Questions?
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
