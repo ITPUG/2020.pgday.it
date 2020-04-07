@@ -52,33 +52,33 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
-c4sponsorsUrl: "/assets/PartnerIT_2020.pdf"
+#c4sponsorsUrl: "/assets/PartnerIT_2020.pdf"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {permalink: "/workshop/", text: "Workshop", lang: "it"}
 # - {permalink: "/workshop/", text: "Workshops", lang: "en"}
- - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
- - {permalink: "/logistics/", text: "Logistica", lang: "it"}
- - {permalink: "/logistics/", text: "Logistics", lang: "en"}
+# - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
+# - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+# - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
- - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://pgdayit2020.eventbrite.it", text: "Buy your ticket", lang: "en"}
+# - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://pgdayit2020.eventbrite.it", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
@@ -96,25 +96,25 @@ heroTitle:
   it: "PGDay.IT 2020 - <typeout> "
   en: "PGDay.IT 2020 - <typeout> "
 eventDate:
-  it: "PGDay.IT 2020: Workshop 11 giugno e Conferenza 12 giugno"
-  en: "PGDay.IT 2020: Workshop June 11th and Conference June 12th"
+  it: "PGDay.IT 2020: A causa emergenza Covid-19 il PGDay.IT 2020 è stato annullato. Speriamo di vedervi tutti il prossimo anno."
+  en: "PGDay.IT 2020: Due to Covid-19 emergency the PGDay.IT 2020 has been canceled. We hope to see you all next year."
 typeoutTextValues:
-  it: '"Conferenza 12 giugno", "Workshop 11 giugno", "PG_beer 11 giugno", "Bergamo, Italy"'
-  en: '"Conference June 12th", "Workshop June 11th", "PG_beer June 11th", "Bergamo, Italy"'
+  it: '"Conferenza: Annulla", "Workshop: Annullato", "PG_beer: Annullata", "Italy"'
+  en: '"Conference: Canceled", "Workshop: Canceled", "PG_beer: Canceled", "Italy"'
 typeoutFallback:
-  it: "Bergamo, 11 e 12 giugno 2020"
-  en: "Bergamo, June 11th and 12th, 2020"
+  it: "Italy"
+  en: "Italy"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Diventa Speaker", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfruHdXMvxIuEuH0glSf1S-vUGEQt68v9Y-xBp0nxXnvEXPjA/viewform", text: "Become Speaker", lang: "en"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organizza un workshop", lang: "it"}
+# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScMatdoox9cu_Ir3a9LWlDau46zIO53FlM5rNM-O7UOmiBuNg/viewform", text: "Organise a workshop", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
- - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
- - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://pgdayit2020.eventbrite.it", text: "Get your ticket", lang: "en"}
+# - {link: "/assets/PartnerIT_2020.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2020.pdf", text: "Become Partner", lang: "en"}
+# - {link: "https://pgdayit2020.eventbrite.it", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://pgdayit2020.eventbrite.it", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle:
@@ -142,9 +142,9 @@ statisticBlock:
  - {lang: "en", count: "28", specialCharacter: "", info: "track", detail: "and social events"}
 
 # Latest News Block
-latestNewsTitle:
-  it: "Notizie dell'ultima ora"
-  en: "Latest News"
+#latestNewsTitle:
+#  it: "Notizie dell'ultima ora"
+#  en: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
